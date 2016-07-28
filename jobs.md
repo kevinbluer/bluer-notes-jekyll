@@ -26,6 +26,7 @@ Listed below are a range of (primarily, but not exclusively) technology centric 
 - [Authentic Jobs](https://authenticjobs.com/)
 - [Gun](https://gun.io/)
 - [Front-end Developer Jobs](http://frontenddeveloperjob.com/)
+- [Gigster](https://gigster.com/)
 
 ## Auctions
 
@@ -36,11 +37,14 @@ Listed below are a range of (primarily, but not exclusively) technology centric 
 - [Weworkremotely.com](https://weworkremotely.com/)
 - [WFH.io](https://www.wfh.io/jobs/)
 - [Freelancer.com](http://www.freelancer.com)
+- [Go Remote](https://goremote.io/)
 - [Freelance.com](http://www.freelance.com)
 - [Remotely](http://goremotely.co/)
 - [Working Nomads](http://www.workingnomads.co/jobs)
 - [Remote Coder](https://remotecoder.io/)
 - [10X](http://www.10xmanagement.com/)
+- [Gigrove](https://gigrove.com/)
+- [Talentboard](http://www.thetalentboard.org/)
 
 ## Country & Region Specific
 
