@@ -4,7 +4,7 @@ title: Jobs
 permalink: /jobs/
 ---
 
-Listed below are a range of (primarily, but not exclusively) technology centric job sites and resources.
+Listed below are a range of technology centric job sites and resources. If you know of any others that are not listed feel free to drop me a quick note at [hello@bluer.com](hello@bluer.com).
 
 ### General Listings
 
