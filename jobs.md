@@ -45,14 +45,17 @@ Listed below are a range of technology centric job sites and resources. If you k
 - [10X](http://www.10xmanagement.com/)
 - [Gigrove](https://gigrove.com/)
 - [Talentboard](http://www.thetalentboard.org/)
+- [Flexjobs](https://www.flexjobs.com/)
 
 ### Country & Region Specific
 
-- [Jobstreet - Singapore, Malaysia, Philippines, Indonesia, Vietnam](http://www.jobstreet.com)
-- [Tribe Hired - Malaysia](https://tribehired.com)
-- [JobsDB - Hong Kong](http://www.jobsdb.com)
-- [CoCoon Market - Hong Kong](http://market.hkcocoon.org/)
-- [ChinaHot - China](http://www.chinahot.com)
+- [Jobstreet (Singapore, Malaysia, Philippines, Indonesia, Vietnam)](http://www.jobstreet.com)
+- [Tribe Hired (Malaysia)](https://tribehired.com)
+- [JobsDB (Hong Kong)](http://www.jobsdb.com)
+- [CoCoon Market (Hong Kong)](http://market.hkcocoon.org/)
+- [ChinaHot (China)](http://www.chinahot.com)
+- [Europe Remotely (Europe)](http://europeremotely.com/)
+- [WhoIsHiring](https://whoishiring.io/)
 
 ### Startups
 
@@ -71,3 +74,5 @@ Listed below are a range of technology centric job sites and resources. If you k
 
 - [HN Hiring](http://hnhiring.me/)
 - [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job/)
+- [Product Hunt Remote Jobs](https://www.producthunt.com/e/find-a-remote-job)
+- [Skillscrush](http://skillcrush.com/2014/10/10/sites-finding-remote-work/)
