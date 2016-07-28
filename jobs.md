@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bots
-permalink: /bots/
+title: Jobs
+permalink: /jobs/
 ---
 
 Listed below are a range of (primarily, but not exclusively) technology centric job sites and resources.
