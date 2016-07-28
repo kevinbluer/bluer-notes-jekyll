@@ -2,6 +2,7 @@
 layout: page
 title: Bots
 permalink: /bots/
+menu: main
 ---
 
 # Chatbots

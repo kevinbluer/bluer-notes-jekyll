@@ -15,7 +15,3 @@ permalink: /decentralized/
 
 - Bitcoin
 - Ethereum
-
-What else do I need to know?
-
-- 
