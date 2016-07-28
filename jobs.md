@@ -6,7 +6,7 @@ permalink: /jobs/
 
 Listed below are a range of (primarily, but not exclusively) technology centric job sites and resources.
 
-## General Listings
+### General Listings
 
 - [Toptal](https://www.toptal.com/)
 - [LinkedIn Jobs](http://www.linkedin.com/job/home)
@@ -28,11 +28,11 @@ Listed below are a range of (primarily, but not exclusively) technology centric 
 - [Front-end Developer Jobs](http://frontenddeveloperjob.com/)
 - [Gigster](https://gigster.com/)
 
-## Auctions
+### Auctions
 
 - [Hired.com](https://hired.com/)
 
-## Remote Work Centric
+### Remote Work Centric
 
 - [Weworkremotely.com](https://weworkremotely.com/)
 - [WFH.io](https://www.wfh.io/jobs/)
@@ -46,7 +46,7 @@ Listed below are a range of (primarily, but not exclusively) technology centric 
 - [Gigrove](https://gigrove.com/)
 - [Talentboard](http://www.thetalentboard.org/)
 
-## Country & Region Specific
+### Country & Region Specific
 
 - [Jobstreet - Singapore, Malaysia, Philippines, Indonesia, Vietnam](http://www.jobstreet.com)
 - [Tribe Hired - Malaysia](https://tribehired.com)
@@ -54,20 +54,20 @@ Listed below are a range of (primarily, but not exclusively) technology centric 
 - [CoCoon Market - Hong Kong](http://market.hkcocoon.org/)
 - [ChinaHot - China](http://www.chinahot.com)
 
-## Startups
+### Startups
 
 - [Inside Startups](http://www.insidestartups.org/)
 - [Startup Job](http://startupjob.me/)
 
-## General Resources
+### General Resources
 
 - [Interviewcake](http://www.interviewcake.com/)
 
-## Salaries
+### Salaries
 
 - [Tech.io](http://tech.co/best-cities-techies-find-jobs-2015-08)
 
-## Other Lists
+### Other Lists
 
 - [HN Hiring](http://hnhiring.me/)
 - [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job/)
