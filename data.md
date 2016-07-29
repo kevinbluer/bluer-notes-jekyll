@@ -25,3 +25,9 @@ mean(q$Solar.R, na.rm=TRUE)
 m <- subset(data, Month == 5)
 max(m$Ozone, na.rm=TRUE)
 ```
+
+Printing to the console
+
+{% highlight r %}
+cat("hello world")
+{% endhighlight %}
