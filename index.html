@@ -5,18 +5,13 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">Welcome to Bluer Notes</h1>
-  <p>A living breathing public notes archive.</p>  
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
+  <p>A living breathing public notes repository. This is an active project wherein I'm moving notes that logically should be "free" (and are currently hidden) from a variety of sources such as [Evernote](https://evernote.com/), [Google Drive](https://drive.google.com/), [Dropbox](https://www.dropbox.com/), etc. All of which are wonderful repositories in their own ways, but not as free as they could be.</p>
+  <p>Here's some examples of the types of things stored within:</p>
+  <ul>
+    <li>[Data Science](/data)</li>
+    <li>[Bots](/bots)</li>
+    <li>[Austin, TX](/austin)</li>
+    <li>[Job Listings](/jobs)</li>
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
