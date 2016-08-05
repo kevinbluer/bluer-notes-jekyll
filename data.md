@@ -9,6 +9,39 @@ menu: main
 
 # R
 
+### Data Types
+
+##### Matrices
+
+{% highlight r %}
+x = matrix(
+	c(2, 4, 3, 1, 5, 7), # the data elements 
+	nrow=2,              # number of rows 
+	ncol=3,              # number of columns 
+	byrow = TRUE)
+{% endhighlight %}
+
+The above produces the following:
+
+![Matrix Example](/images/r-matrix.png)
+
+### Basics
+
+{% highlight r %}
+x <- iris[iris$Species == "virginica",]
+mean(x$Sepal.Length)
+
+sum(flags$orange)
+{% endhighlight %}
+
+Printing to the console
+
+{% highlight r %}
+cat("hello world")
+{% endhighlight %}
+
+### Samples
+
 Loading data into a data frame and calculating the mean of a column called 'Ozone'.
 
 {% highlight r %}
@@ -33,23 +66,11 @@ m <- subset(data, Month == 5)
 max(m$Ozone, na.rm=TRUE)
 {% endhighlight %}
 
-### Basics
-
-{% highlight r %}
-sum(flags$orange)
-{% endhighlight %}
-
-Printing to the console
-
-{% highlight r %}
-cat("hello world")
-{% endhighlight %}
-
 ### Looping and Apply (with notes from Swirl)
 
 #### Apply
 
-Different typess of apply
+Different typess of apply. Note that applying adheres to the "Split-Apply-Combine" methodology.
 
 - lapply ("list" apply)
 
@@ -61,18 +82,44 @@ Different typess of apply
 lapply(flag_colors, sum)
 {% endhighlight %}
 
+{% highlight r %}
+cls_list <- lapply(flags, class)
+{% endhighlight %}
+
+{% highlight r %}
+lapply(flag_shapes, range)
+{% endhighlight %}
+
 - sapply ("simplify" apply )
 
 | In general, if the result is a list where every element is of length one, then sapply() returns a vector. If the
 | result is a list where every element is a vector of the same length (> 1), sapply() returns a matrix. If sapply()
 | can't figure things out, then it just returns a list, no different from what lapply() would give you.
 
-
-
+{% highlight r %}
+sapply(flag_colors, mean)
+{% endhighlight %}
 
 {% highlight r %}
-cls_list <- lapply(flags, class)
+shape_mat <- sapply(flag_shapes, range)
+shape_mat
 {% endhighlight %}
+
+- vapply
+
+| Whereas sapply() tries to 'guess' the correct format of the result, vapply() allows you to specify it explicitly.
+| If the result doesn't match the format you specify, vapply() will throw an error, causing the operation to stop.
+| This can prevent significant problems in your code that might be caused by getting unexpected return values from
+| sapply().
+
+{% highlight r %}
+vapply(flags, unique, numeric(1))
+{% endhighlight %}
+
+- tapply ("Apply a Function Over a Ragged Array")
+
+| As a data analyst, you'll often wish to split your data up into groups based on the value of some variable, then
+| apply a function to the members of each group. The next function we'll look at, tapply(), does exactly that.
 
 ## General
 
@@ -107,3 +154,5 @@ cls_list <- lapply(flags, class)
 ### Data Sets
 
 - [Flags dataset from the UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Flags)
+- [Iris](#)
+- [mtcars](#)

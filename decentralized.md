@@ -4,7 +4,7 @@ title: Decentralized
 permalink: /decentralized/
 ---
 
-# Distributed
+# Decentralized & Distributed Systems
 
 ### Filesystems
 
@@ -15,3 +15,11 @@ permalink: /decentralized/
 
 - Bitcoin
 - Ethereum
+
+### Application Distribution
+
+- [Viral.js](http://pixelscommander.github.io/Viral.JS/#.V6QIX0J97MW)
+
+### Scientific Research
+
+- SETI(http://www.seti.org)
