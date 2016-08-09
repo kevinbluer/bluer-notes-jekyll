@@ -14,16 +14,18 @@ menu: main
 ##### Matrices
 
 {% highlight r %}
-x = matrix(
-	c(2, 4, 3, 1, 5, 7), # the data elements 
-	nrow=2,              # number of rows 
-	ncol=3,              # number of columns 
+m <- matrix(
+	c(3, 1, 5, 7), # the data elements 
+	nrow=2,        # number of rows 
+	ncol=2,        # number of columns 
 	byrow = TRUE)
-{% endhighlight %}
+{% endhighlight %}	
 
 The above produces the following:
 
 ![Matrix Example](/images/r-matrix.png)
+
+More examples [here](http://www.r-tutor.com/r-introduction/matrix).
 
 ### Basics
 
@@ -40,7 +42,7 @@ Printing to the console
 cat("hello world")
 {% endhighlight %}
 
-### Samples
+### Code Samples
 
 Loading data into a data frame and calculating the mean of a column called 'Ozone'.
 
@@ -156,3 +158,7 @@ vapply(flags, unique, numeric(1))
 - [Flags dataset from the UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Flags)
 - [Iris](#)
 - [mtcars](#)
+
+### Thoughts & Notes
+
+- [Is Data Scientist a Useless Job Title?](https://yanirseroussi.com/2016/08/04/is-data-scientist-a-useless-job-title/)
