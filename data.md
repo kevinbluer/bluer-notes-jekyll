@@ -9,6 +9,30 @@ menu: main
 
 # R
 
+### Looking at Data
+
+Using the [United States Department of Agriculture's PLANTS Database](http://plants.usda.gov/adv_search.html) loaded into *plants*.
+
+{% highlight r %}
+ls()
+class(plants)
+dim(plants) # to see exactly how many rows and columns we're dealing with (assuming it's a data frame)
+nrow(plants) # number of rows
+ncol(plants) # number of columns
+object.size(plants) # to see how much space the dataset is occupying in memory
+names(plants) # return a character vector of the column names (e.g. variables)
+head(plants) # to look at the top of the dataset
+head(plants, 10)
+tail(plants, 15)
+summary(plants)
+table(plants$Active_Growth_Period)
+str(plants)
+{% endhighlight %}
+
+### Simulating
+
+"One of the great advantages of using a statistical programming language like R is its vast collection of tools for simulating random numbers."
+
 ### Data Types
 
 ##### Matrices
@@ -19,7 +43,7 @@ m <- matrix(
 	nrow=2,        # number of rows 
 	ncol=2,        # number of columns 
 	byrow = TRUE)
-{% endhighlight %}	
+{% endhighlight %}
 
 The above produces the following:
 
@@ -158,6 +182,7 @@ vapply(flags, unique, numeric(1))
 - [Flags dataset from the UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Flags)
 - [Iris](#)
 - [mtcars](#)
+- [United States Department of Agriculture's PLANTS Database](http://plants.usda.gov/adv_search.html)
 
 ### Thoughts & Notes
 
