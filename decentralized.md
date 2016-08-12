@@ -11,10 +11,11 @@ permalink: /decentralized/
 - [IPFS](https://ipfs.io)
 - [Swarm](https://github.com/ethersphere/swarm)
 
-### Blockchain
+### Blockchain / Finance
 
 - [Bitcoin](https://bitcoin.org)
 - [Ethereum](https://www.ethereum.org)
+- [Interledger](https://interledger.org)
 
 ### Application Distribution
 
@@ -28,6 +29,14 @@ permalink: /decentralized/
 ### Databases
 
 - [Noms](https://github.com/attic-labs/noms)
+
+### Data Sharing
+
+- [Dat](http://dat-data.com/)
+
+### Communication
+
+- [Matrix](https://matrix.org)
 
 ### Notes
 

@@ -77,3 +77,9 @@ Listed below are a range of technology centric job sites and resources. If you k
 - [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job/)
 - [Product Hunt Remote Jobs](https://www.producthunt.com/e/find-a-remote-job)
 - [Skillscrush](http://skillcrush.com/2014/10/10/sites-finding-remote-work/)
+
+### Preparation for Programming Interviews
+
+- [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/)
+- [52 Technologies in 2016](https://github.com/shekhargulati/52-technologies-in-2016)
+- [Hacker News Advice](https://news.ycombinator.com/item?id=12259772)

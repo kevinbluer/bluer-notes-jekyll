@@ -7,6 +7,5 @@ menu: main
 
 # Quotes
 
-"We're not just growing food...we're growing culture. It changes your culture, outlook, the fundamentals..."
-
-"If you don't aim too high, then you aim too low."
+- "If you ain't aim too high. Then you aim too low", [J Cole](http://genius.com/J-cole-january-28th-lyrics)
+- "We're all just walking each other home", [Ram Dass](https://en.wikipedia.org/wiki/Ram_Dass)
