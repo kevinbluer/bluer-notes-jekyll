@@ -2,7 +2,6 @@
 layout: page
 title: Data Science
 permalink: /data/
-menu: main
 ---
 
 # Data Science, Machine Learning, Artificial Intelligence, Deep Learning

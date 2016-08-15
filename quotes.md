@@ -2,7 +2,6 @@
 layout: page
 title: Quotes
 permalink: /quotes/
-menu: main
 ---
 
 # Quotes

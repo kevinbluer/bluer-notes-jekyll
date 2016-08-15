@@ -2,7 +2,6 @@
 layout: page
 title: Artificial Intelligence
 permalink: /ai/
-menu: main
 ---
 
 ### Areas
