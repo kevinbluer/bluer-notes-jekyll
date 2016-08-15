@@ -6,7 +6,7 @@ permalink: /java/
 
 ### 30 days of code challenges
 
-###### Day 0
+#### Day 0
 
 {% highlight java %}
 public class Solution {
@@ -29,7 +29,7 @@ public class Solution {
 }
 {% endhighlight %}
 
-###### Day 1
+#### Day 1
 
 {% highlight java %}
 /* Declare second integer, double, and String variables. */
@@ -55,7 +55,7 @@ System.out.println(d + d2);
 System.out.println(s + s2);
 {% endhighlight %}
 
-###### Day 2
+#### Day 2
 
 {% highlight java %}
 import java.io.*;
@@ -86,7 +86,7 @@ public class Arithmetic {
 }
 {% endhighlight %}
 
-##### Day 3
+#### Day 3
 
 {% highlight java %}
 import java.io.*;
@@ -115,7 +115,7 @@ public class Solution {
 {% endhighlight %}
 
 
-##### Day 4
+#### Day 4
 
 {% highlight java %}
 public class Person {
@@ -147,5 +147,28 @@ public class Person {
   		// Increment this person's age.
         this.age++;
 	}
+}
+{% endhighlight %}
+
+#### Day 5
+
+{% highlight java %}
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int N = in.nextInt();
+        
+        int i;
+        for (i = 1; i <= 10; i++) {
+            System.out.println(N + " x " + i + " = " + (i * N));
+        }
+    }
 }
 {% endhighlight %}
