@@ -17,7 +17,7 @@ permalink: /decentralized/
 - [Ethereum](https://www.ethereum.org)
 - [Interledger](https://interledger.org)
 
-### Application Distribution
+### File Distribution
 
 - [Viral.js](http://pixelscommander.github.io/Viral.JS/#.V6QIX0J97MW)
 - [Project Maelstrom](http://project-maelstrom.bittorrent.com)
@@ -32,7 +32,7 @@ permalink: /decentralized/
 
 ### Data Sharing
 
-- [Dat](http://dat-data.com/)
+- [Dat](http://dat-data.com)
 
 ### Communication
 

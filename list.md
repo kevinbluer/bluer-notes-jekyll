@@ -9,24 +9,25 @@ Below is a complete list of all the notes...
 
 ### Technology
 
-- Data
-- Bots
-- Decentralized Systems
-- Git
+- [Data](/data)
+- [Bots](/bots)
+- [Decentralized Systems](/decentralized)
+- [Git](/git)
 - Networking Tools
-- Self Driving
+- [Self Driving](/selfdriving)
+- [Artificial Intelligence](/ai)
 
 ### Productivity
 
-- Job Hunting
+- [Job Hunting](/jobs)
 
 ### Travel
 
-- Austin, TX
+- [Austin, TX](/austin)
 - Hong Kong, China
 - Chiang Mai, Thailand
 
 ### Life
 
-- Quotes
+- [Quotes](/quotes)
 - Environment
