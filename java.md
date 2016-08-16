@@ -172,3 +172,49 @@ public class Solution {
     }
 }
 {% endhighlight %}
+
+#### Day 6
+
+{% highlight java %}
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        
+      Scanner scan = new Scanner(System.in);
+      int T = scan.nextInt();
+      
+      // jump to the next line
+      scan.nextLine();
+        
+      int i;
+      for (i = 1; i <= T; i++) {
+          
+        String str = scan.nextLine();
+        char[] charArray = str.toCharArray();
+          
+        String x = "";
+        String y = "";
+          
+        int z;
+        for (z = 0; z < charArray.length; z++) {
+            
+            if (z%2==0) {
+                x += charArray[z];
+            } else {
+                y += charArray[z];
+            }
+        }
+        
+        System.out.println(x + " " + y);
+      }
+        
+      scan.close();
+    }
+}
+{% endhighlight %}
