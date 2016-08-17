@@ -218,3 +218,32 @@ public class Solution {
     }
 }
 {% endhighlight %}
+
+#### Day 7
+
+{% highlight java %}
+import java.io.*;
+import java.util.*;
+
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int[] arr = new int[n];
+        for(int i=0; i < n; i++){
+            arr[i] = in.nextInt();
+        }
+        
+        String out = "";
+        for (int x=arr.length; x > 0; x--) {
+            out = out + arr[x-1] + " ";
+        }
+        
+        System.out.println(out);
+        
+        in.close();
+    }
+}
+{% endhighlight %}
