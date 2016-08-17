@@ -49,10 +49,10 @@ permalink: /austin/
 - Pecan Street Festival
 - Fun Fun Fun
 - Austin City Limits
-- SXSW
+- [SXSW](https://www.sxsw.com)
 - Fantastic Fest
 - MapJam
 - Kerrville Folk Festival
 - Austin Film Festival
-- Austin Food + Wine Festival (http://www.austinfoodandwinefestival.com/)
-- Austin Gorilla Run (http://austingorillarun.com/)
+- [Austin Food + Wine Festival](http://www.austinfoodandwinefestival.com/)
+- [Austin Gorilla Run](http://austingorillarun.com/)

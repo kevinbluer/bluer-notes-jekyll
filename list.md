@@ -16,6 +16,7 @@ Below is a complete list of all the notes...
 - Networking Tools
 - [Self Driving](/selfdriving)
 - [Artificial Intelligence](/ai)
+- [Java](/java)
 
 ### Productivity
 

@@ -232,8 +232,10 @@ hist(mtcars$mpg)
 
 # Tools and Services
 
-- OpenAI Gym (https://gym.openai.com)
-- Tensorflow Playground (http://playground.tensorflow.org)
+- [OpenAI Gym](https://gym.openai.com)
+- [Tensorflow Playground](http://playground.tensorflow.org)
+- [IPython](https://ipython.org/)
+- [Jupyter](http://jupyter.org/)
 
 ### Concepts
 
