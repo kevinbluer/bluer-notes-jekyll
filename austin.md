@@ -15,8 +15,9 @@ permalink: /austin/
 - The Legs
 - Las Manitas
 - Hamilton Pool
-- Paddle Boarding by Hyatt (see bats underneath bridge...6-7pm)
-- Austin Boldering Project (http://austinboulderingproject.com/)
+- Paddle Boarding by Hyatt
+- Bats
+- [Austin Boldering Project](http://austinboulderingproject.com/)
 
 ## Where to Stay
 
@@ -28,8 +29,8 @@ permalink: /austin/
 
 ## Where to Work
 
-- Capital Factory
-- We Work
+- [Capital Factory](https://capitalfactory.com/)
+- [WeWork](https://www.wework.com/locations/austin)
 - [Vuka](http://www.vukaaustin.com/coworking)
 - [ATX Factory](http://www.atxfactory.com)
 
