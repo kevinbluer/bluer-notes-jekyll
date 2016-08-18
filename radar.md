@@ -22,3 +22,9 @@ permalink: /radar/
 - [Pebble Time 2](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pebble+time+2&tbm=nws)
 - [MacBook Pro](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=macbook+pro)
 - [iPhone 7](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=iphone+7)
+
+### Currencies
+
+- [BTC](#)
+- [ETH](#)
+- [GBP <> USD](#)
