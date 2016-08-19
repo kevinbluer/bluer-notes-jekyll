@@ -11,20 +11,10 @@ permalink: /java/
 {% highlight java %}
 public class Solution {
 	public static void main(String[] args) {
-        // Create a Scanner object to read input from stdin.
-		Scanner scan = new Scanner(System.in); 
-		
-		// Read a full line of input from stdin and save it to our variable, inputString.
+		Scanner scan = new Scanner(System.in); 		
 		String inputString = scan.nextLine(); 
-
-		// Close the scanner object, because we've finished reading 
-        // all of the input from stdin needed for this challenge.
 		scan.close(); 
-      
-		// Print a string literal saying "Hello, World." to stdout.
 		System.out.println("Hello, World.");
-      
-	    // TODO: Write a line of code here that prints the contents of inputString to stdout.
 	}
 }
 {% endhighlight %}
@@ -277,6 +267,37 @@ class Solution{
             
         }
         in.close();
+    }
+}
+{% endhighlight %}
+
+#### Day 9
+
+{% highlight java %}
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+    public static int total;
+    
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int n = scan.nextInt();
+        
+        total = n;
+        factorial(n);
+    }
+    
+    public static void factorial(int n) {
+        if (n <= 1) {
+            System.out.println(total);
+        } else {
+            total = total * (n-1);
+            factorial(n-1);
+        }
     }
 }
 {% endhighlight %}
