@@ -301,3 +301,43 @@ public class Solution {
     }
 }
 {% endhighlight %}
+
+#### Day 10
+
+{% highlight java %}
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        
+        char[] base2 = Integer.toString(n, 2).toCharArray();
+        
+        int result = 0;
+        int currentHighest = 0;
+        
+        for(int i = 0; i < base2.length; i++){
+            if (base2[i] == '1') {
+                result++;
+                if (result >= currentHighest) {
+                    currentHighest = result;
+                }
+            } else 
+                if (Arrays.asList(base2).indexOf('1') > 0) {
+                    result = 1;
+                } else {
+                    result = 0;
+                }
+            }
+        }
+        
+        System.out.println(currentHighest);
+    }
+}
+{% endhighlight %}

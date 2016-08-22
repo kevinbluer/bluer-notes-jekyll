@@ -16,6 +16,7 @@ permalink: /decentralized/
 - [Bitcoin](https://bitcoin.org)
 - [Ethereum](https://www.ethereum.org)
 - [Interledger](https://interledger.org)
+- [Ripple](http://ripple.com)
 
 ### File Distribution
 
@@ -37,6 +38,10 @@ permalink: /decentralized/
 ### Communication
 
 - [Matrix](https://matrix.org)
+
+### Utlities
+
+- [Beaker Browser](http://pfrazee.github.io/2016/08/10/beaker-browser-0.1.html)
 
 ### Notes
 
