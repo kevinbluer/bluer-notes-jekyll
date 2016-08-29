@@ -270,3 +270,34 @@ hist(mtcars$mpg)
 ### Thoughts & Notes
 
 - [Is Data Scientist a Useless Job Title?](https://yanirseroussi.com/2016/08/04/is-data-scientist-a-useless-job-title/)
+
+---
+
+### Raw
+
+library(RCurl)
+x <- getURL("https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Fss06hid.csv")
+y <- read.csv(text = x)
+nrow(subset(y, VAL > 23))
+
+install.packages("rJava", dependencies = TRUE)
+install.packages("xlsx", dependencies = TRUE)
+install.packages("data.table", dependencies = TRUE)
+
+dat <- read.xlsx('/Users/bluer/Downloads/dat.xlsx', sheetIndex=1, colIndex=7:15, rowIndex=18:23)
+sum(dat$Zip*dat$Ext,na.rm=T)
+
+
+install.packages("XML", type = "source")
+library(XML)
+fileUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Frestaurants.xml"
+fileUrl <- "http://www.w3schools.com/xml/simple.xml"
+fileUrl <- "/Users/bluer/Downloads/sample.xml"
+doc <- xmlTreeParse(fileUrl, useInternal=TRUE)
+rootNode <- xmlRoot(doc)
+y <- xmlToList(rootNode)
+nrow(subset(y, VAL > 23))
+
+# node <- xmlNode("zip", "21231")
+# xmlSApply(rootNode, xmlValue(xmlTextNode("21231")))
+# xmlSApply(rootNode, node)
