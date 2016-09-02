@@ -301,3 +301,16 @@ nrow(subset(y, VAL > 23))
 # node <- xmlNode("zip", "21231")
 # xmlSApply(rootNode, xmlValue(xmlTextNode("21231")))
 # xmlSApply(rootNode, node)
+
+---
+
+install.packages("sqldf")
+library(sqldf)
+
+con = url ("http://biostat.jhsph.edu/~jleek/contact.html")
+htmlCode = readLines(con)
+close(con)
+nchar(htmlCode[10])
+nchar(htmlCode[20])
+nchar(htmlCode[30])
+nchar(htmlCode[100])

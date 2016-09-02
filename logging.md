@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Logging
+title: Logging Tools
 permalink: /logging/
 ---
+
+Listed below are number of logging services that are worth reviewing if you're considering integrating 3rd party logging into your application.
 
 - [Papertrail](https://papertrailapp.com)
 - [Loggly](https://www.loggly.com)

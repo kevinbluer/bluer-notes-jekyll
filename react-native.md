@@ -1,0 +1,21 @@
+---
+layout: page
+title: React Native
+permalink: /react-native/
+---
+
+#### Running on iOS
+
+> react-native start
+
+To run your app on iOS:
+   cd /Users/bluer/Developer/AwesomeProject
+   react-native run-ios
+   - or -
+   Open /Users/bluer/Developer/AwesomeProject/ios/AwesomeProject.xcodeproj in Xcode
+   Hit the Run button
+
+#### Troubleshooting
+
+- Make sure you have the latest of the React Native CLI, NPM, Node, Xcode.
+- Manually run the packager via the 'react-native start' command
