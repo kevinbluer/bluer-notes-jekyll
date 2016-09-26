@@ -57,3 +57,11 @@ permalink: /austin/
 - Austin Film Festival
 - [Austin Food + Wine Festival](http://www.austinfoodandwinefestival.com/)
 - [Austin Gorilla Run](http://austingorillarun.com/)
+
+## Staycations
+
+- [A Guide to Lake Travis](http://austin.culturemap.com/news/entertainment/08-29-16-lake-travis-guide-vacation/#slide=0)
+
+## Guides
+
+- ["Why the rest of the country should be more like Austin"](https://www.thrillist.com/lifestyle/austin/why-the-rest-of-america-should-be-more-like-austin-texas)
