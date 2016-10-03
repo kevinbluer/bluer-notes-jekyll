@@ -17,6 +17,8 @@ Below is a complete list of all the notes...
 - [Self Driving](/selfdriving)
 - [Artificial Intelligence](/ai)
 - [Java](/java)
+- [Logging Services](/logging)
+- [Deep Learning](/deep-learning)
 
 ### Productivity
 
