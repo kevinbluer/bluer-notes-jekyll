@@ -34,3 +34,7 @@ Below is a complete list of all the notes...
 
 - [Quotes](/quotes)
 - Environment
+
+### Random
+
+- [Space](/space)
