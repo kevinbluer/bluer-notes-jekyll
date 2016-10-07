@@ -6,7 +6,7 @@ permalink: /radar/
 
 ### Locations
 
-- [Bellingham, WA](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Bellingham&tbm=nws)
+- [Bellingham, WA](https://www.google.com/search?q=Bellingham&tbm=nws&rct=j)
 - [Tulum, Mexico](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=tulum)
 - [Chiang Mai, Thailand](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=chiang+mai)
 - [London, England](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=london+property)

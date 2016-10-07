@@ -11,6 +11,7 @@ permalink: /selfdriving/
 - [Cruise Automation](https://www.getcruise.com)
 - [Tesla](https://www.tesla.com)
 - [Google Self-Driving Car Project](https://www.google.com/selfdrivingcar)
+- [Udacity Open Source Self Driving Car Project](https://github.com/udacity/self-driving-car)
 
 # Things to Try
 

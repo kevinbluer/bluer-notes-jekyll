@@ -12,6 +12,7 @@ permalink: /bots/
 - [Bots for Messenger](https://messengerplatform.fb.com)
 - [Rebot.me](http://rebot.me/page/about)
 - [Ola](http://olabot.com)
+- [wit.ai](https://wit.ai)
 
 What else do I need to know?
 

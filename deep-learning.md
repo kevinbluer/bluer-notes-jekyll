@@ -4,6 +4,10 @@ title: Deep Learning
 permalink: /deep-learning/
 ---
 
+#### Learning
+
+- http://deeplearning.net
+
 #### Environment Setup
 
 - https://github.com/saiprashanths/dl-setup

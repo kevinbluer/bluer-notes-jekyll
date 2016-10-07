@@ -6,7 +6,7 @@ permalink: /austin/
 
 "Austin, on the eastern edge of Texas Hill Country, is not only the state capital, but lays claim to being the "live music capital of the world." It’s also a center for film and home to the University of Texas and Formula 1's Circuit of the Americas raceway. Its abundant parks and lakes are popular for hiking, biking, swimming, boating and other outdoor pursuits."
 
-## What to See
+## What to See / Do
 
 - Barton Springs
 - Deep Eddy
@@ -18,6 +18,8 @@ permalink: /austin/
 - Paddle Boarding by Hyatt
 - Bats
 - [Austin Boldering Project](http://austinboulderingproject.com/)
+- [Austin Surf Park](http://www.surfermag.com/features/north-americas-first-surf-park-will-open-friday/#YPDB21tdfRvizYXG.97)
+- [Circuit of the Americas Tour](http://circuitoftheamericas.com/tours)
 
 ## Where to Stay
 

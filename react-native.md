@@ -7,13 +7,8 @@ permalink: /react-native/
 #### Running on iOS
 
 > react-native start
-
-To run your app on iOS:
-   cd /Users/bluer/Developer/AwesomeProject
-   react-native run-ios
-   - or -
-   Open /Users/bluer/Developer/AwesomeProject/ios/AwesomeProject.xcodeproj in Xcode
-   Hit the Run button
+> react-native run-ios
+> react-native run-android --variant=release
 
 #### Resources
 

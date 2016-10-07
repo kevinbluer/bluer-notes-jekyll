@@ -10,6 +10,10 @@ permalink: /python/
 
 #### Libraries
 
+- Numpy
+- Pandas
+- Matplotlib
+
 Excerpt from [
 20 Python Libraries You Aren't Using (But Should)](http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp)...
 
