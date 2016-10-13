@@ -59,6 +59,8 @@ Epictetus
 William Blake
 DH Lawrence
 Octavia Estelle Butler
+Danny Hillis
+Lumière brothers
 
 #### Philosophers
 

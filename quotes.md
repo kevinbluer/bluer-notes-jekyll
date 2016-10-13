@@ -13,3 +13,5 @@ permalink: /quotes/
 - "The future has an ancient heart.", Carlo Levi
 - "Positive anything is better than negative nothing.", Elbert Hubbard
 - "We never really grow up, we only learn how to act in public.", Bryan White
+- "I have always imagined that Paradise will be a kind of library", Jorge Luis Borges
+- "We cannot rewrite history, but we can right history", Mark Hayes

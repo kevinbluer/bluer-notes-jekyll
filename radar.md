@@ -34,3 +34,8 @@ permalink: /radar/
 - [BTC/USD](#)
 - [ETH/USD](#)
 - [GBP/USD](#)
+
+### People
+
+- [Slahi Mohamedou Ould](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=slahi+mohamedou+ould&tbm=nws)
+- [Amy Goodman]
