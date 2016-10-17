@@ -38,7 +38,9 @@ permalink: /austin/
 
 Where to Eat and Drink
 
+- [Bouldin Creek Cafe](http://bouldincreekcafe.com)
 - [Eberly](http://eberlyaustin.com/)
+- [Geraldine's](http://www.geraldinesaustin.com)
 
 ## Kids
 
@@ -67,6 +69,11 @@ Where to Eat and Drink
 ## Staycations
 
 - [A Guide to Lake Travis](http://austin.culturemap.com/news/entertainment/08-29-16-lake-travis-guide-vacation/#slide=0)
+
+## Road Trips
+
+- Marfa
+- Big Bend National Park
 
 ## Guides
 
