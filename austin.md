@@ -36,7 +36,7 @@ permalink: /austin/
 - [Vuka](http://www.vukaaustin.com/coworking)
 - [ATX Factory](http://www.atxfactory.com)
 
-Where to Eat and Drink
+## Where to Eat and Drink
 
 - [Bouldin Creek Cafe](http://bouldincreekcafe.com)
 - [Eberly](http://eberlyaustin.com/)

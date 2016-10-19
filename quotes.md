@@ -15,3 +15,4 @@ permalink: /quotes/
 - "We never really grow up, we only learn how to act in public.", Bryan White
 - "I have always imagined that Paradise will be a kind of library", Jorge Luis Borges
 - "We cannot rewrite history, but we can right history", Mark Hayes
+- "You only live once, but if you do it right, once is enough.", [Mae West](https://en.wikipedia.org/wiki/Mae_West)
