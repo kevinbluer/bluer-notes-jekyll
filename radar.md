@@ -24,6 +24,9 @@ permalink: /radar/
 - [Google Fiber](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google+fiber&tbm=nws)
 - [Pebble Time 2](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pebble+time+2&tbm=nws)
 - [MacBook Pro](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=macbook+pro)
+- [Oculus](https://www.oculus.com)
+- [Google Daydream](https://vr.google.com/daydream/)
+- [Me Scooter](http://www.scooterelettrico.me/en/)
 
 ### Culture
 
@@ -38,4 +41,4 @@ permalink: /radar/
 ### People
 
 - [Slahi Mohamedou Ould](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=slahi+mohamedou+ould&tbm=nws)
-- [Amy Goodman]
+- [Amy Goodman](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=amy+goodman&tbm=nws)
