@@ -61,6 +61,7 @@ DH Lawrence
 Octavia Estelle Butler
 Danny Hillis
 Lumière brothers
+Dario Fo
 
 #### Philosophers
 

@@ -26,7 +26,6 @@ permalink: /radar/
 - [MacBook Pro](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=macbook+pro)
 - [Oculus](https://www.oculus.com)
 - [Google Daydream](https://vr.google.com/daydream/)
-- [Me Scooter](http://www.scooterelettrico.me/en/)
 
 ### Culture
 
@@ -42,3 +41,11 @@ permalink: /radar/
 
 - [Slahi Mohamedou Ould](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=slahi+mohamedou+ould&tbm=nws)
 - [Amy Goodman](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=amy+goodman&tbm=nws)
+
+### Vehicles
+
+- [Audi Q7](https://www.audiusa.com/models/audi-q7)
+- [Mazda CX9](https://www.mazdausa.com/vehicles/cx-9)
+- [Me Scooter](http://www.scooterelettrico.me/en/)
+- [Can-Am Spyder](http://can-am.brp.com/spyder/)
+- [Prime Coupe](http://www.smartusa.com/models/prime-coupe)
