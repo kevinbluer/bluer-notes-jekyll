@@ -62,6 +62,9 @@ Octavia Estelle Butler
 Danny Hillis
 Lumière brothers
 Dario Fo
+Herodotus
+Sima Qian
+Ibn Khaldun
 
 #### Philosophers
 

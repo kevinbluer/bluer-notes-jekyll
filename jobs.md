@@ -46,6 +46,12 @@ Listed below are a range of technology centric job sites and resources. If you k
 - [Gigrove](https://gigrove.com/)
 - [Talentboard](http://www.thetalentboard.org/)
 - [Flexjobs](https://www.flexjobs.com/)
+- [CodeGophers](https://codegophers.com/apply.html)
+- [Remote OK](https://remoteok.io)
+- [People Per Hour](https://www.peopleperhour.com)
+- [Working Nomads](http://www.workingnomads.co/jobs)
+- [HackHands](https://hackhands.com)
+- [RemotelyAwesomeJobs](https://www.remotelyawesomejobs.com/)
 
 ### Country & Region Specific
 
@@ -63,13 +69,15 @@ Listed below are a range of technology centric job sites and resources. If you k
 - [Inside Startups](http://www.insidestartups.org/)
 - [Startup Job](http://startupjob.me/)
 
-### General Resources
-
-- [Interviewcake](http://www.interviewcake.com/)
-
 ### Salaries
 
 - [Tech.io](http://tech.co/best-cities-techies-find-jobs-2015-08)
+
+### Communities (mostly on Slack)
+
+- [Freelance.chat](http://freelance.chat/)
+- [Domino](https://www.askdomino.com/freelancer)
+- [#frontendDevelopers](http://frontenddevelopers.org)
 
 ### Other Lists
 
@@ -77,9 +85,12 @@ Listed below are a range of technology centric job sites and resources. If you k
 - [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job/)
 - [Product Hunt Remote Jobs](https://www.producthunt.com/e/find-a-remote-job)
 - [Skillscrush](http://skillcrush.com/2014/10/10/sites-finding-remote-work/)
+- [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)
 
-### Preparation for Programming Interviews
+### Interview Preparation
 
+- [Interviewcake](http://www.interviewcake.com/)
+- [Google Interview University](https://github.com/jwasham/google-interview-university)
 - [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/)
 - [52 Technologies in 2016](https://github.com/shekhargulati/52-technologies-in-2016)
 - [Hacker News Advice](https://news.ycombinator.com/item?id=12259772)
