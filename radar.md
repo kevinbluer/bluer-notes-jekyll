@@ -46,6 +46,9 @@ permalink: /radar/
 
 - [Audi Q7](https://www.audiusa.com/models/audi-q7)
 - [Mazda CX9](https://www.mazdausa.com/vehicles/cx-9)
+- [Volkswagen Atlas](http://www.vw.com/models/atlas/)
+- [BMW i3](http://www.bmw.com/com/en/newvehicles/i/overview.html)
+- [Chevrolet Bolt EV](http://www.chevrolet.com/bolt-ev-electric-vehicle.html)
+- [Prime Coupe](http://www.smartusa.com/models/prime-coupe)
 - [Me Scooter](http://www.scooterelettrico.me/en/)
 - [Can-Am Spyder](http://can-am.brp.com/spyder/)
-- [Prime Coupe](http://www.smartusa.com/models/prime-coupe)

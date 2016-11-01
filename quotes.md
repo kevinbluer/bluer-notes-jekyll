@@ -17,4 +17,6 @@ permalink: /quotes/
 - "We cannot rewrite history, but we can right history", Mark Hayes
 - "You only live once, but if you do it right, once is enough.", [Mae West](https://en.wikipedia.org/wiki/Mae_West)
 - "The value of history is that it teaches us what man has done and thus what man is.", R. G. Collingwood
-- "Those who cannot remember the past are condemned to repeat it.", George Santayana 
+- "Those who cannot remember the past are condemned to repeat it.", George Santayana
+- "I am here to live out loud", Emile Zola
+- "Everyone thinks of changing the world, but no one thinks of changing himself.", Leo Tolstoy
