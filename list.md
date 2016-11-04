@@ -28,12 +28,11 @@ Below is a complete list of all the notes...
 
 - [Austin, TX](/austin)
 - Hong Kong, China
-- Chiang Mai, Thailand
+- [Chiang Mai, Thailand](/chiang-mai/)
 
 ### Life
 
 - [Quotes](/quotes)
-- Environment
 
 ### Random
 

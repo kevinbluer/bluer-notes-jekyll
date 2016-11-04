@@ -3,13 +3,40 @@
 
   {% include head.html %}
 
-  <body style="min-height: 800px; padding-top: 70px;">
+  <body>
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
+    <div class="container">
+
+      <div class="row">
         {{ content }}
+
+        <div class="col-sm-3 offset-sm-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>About</h4>
+            <p>A note is "a brief record of points or ideas written down as an aid to memory." This site contains lots of these.</p>
+          </div>
+          <div class="sidebar-module">
+            <h4>Highlights</h4>
+            <ol class="list-unstyled" style="margin-left: 0px">
+              <li><a href="/austin"><span class="fa fa-map-marker"></span> Austin</a></li>
+              <li><a href="/bots"><span class="fa fa-cog"></span> Bots</a></li>
+              <li><a href="/jobs"><span class="fa fa-briefcase"></span> Jobs</a></li>
+              <li><a href="/jobs"><span class="fa fa-quote-right"></span> Quotes</a></li>
+              <li><a href="/jobs"><span class="fa fa-asterisk"></span> Radar</a></li>
+            </ol>
+          </div>
+          <div class="sidebar-module">
+            <h4>Elsewhere</h4>
+            <ol class="list-unstyled" style="margin-left: 0px">
+              <li><a href="https://www.github.com/kevinbluer" target="_blank"><span class="fa fa-github"></span> GitHub</a></li>
+              <li><a href="https://www.twitter.com/kevinbluer" target="_blank"><span class="fa fa-twitter"></span> Twitter</a></li>
+              <li><a href="https://www.facebook.com/kevinbluer" target="_blank"><span class="fa fa-facebook"></span> Facebook</a></li>
+            </ol>
+          </div>
+        </div><!-- /.blog-sidebar -->
+
       </div>
     </div>
 

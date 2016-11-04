@@ -2,26 +2,34 @@
 layout: default
 ---
 
-<div class="home">
+<div class="col-sm-8 blog-main">
 
-  <h1 class="page-heading">Welcome to Bluer's Notes</h1>
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+    </header>
 
-  <blockquote><strong>A note</strong>&nbsp;"a brief record of points or ideas written down as an aid to memory."</blockquote>
+    <div class="post-content">
+      <div class="home">
 
-  <p>Here's some examples of the types of things contained within (click <a href="/list">here</a> for a complete list):</p>
+        <h1 class="page-heading">Welcome to Bluer's Notes</h1>
 
-  <ul>
-    <li><a href="/data">Data Science</a></li>
-    <li><a href="/bots">Bots</a></li>
-    <li><a href="/austin">Austin, TX</a></li>
-    <li><a href="/jobs">Job Listings</a></li>
-    <li><a href="/quotes">Quotes</a></li>
-    <li><a href="/radar">Radar</a></li>
-    <li><a href="/rust">Rust (Programming Language)</a></li>
-  </ul>
+        <p>Here's some examples of the types of things contained within (click <a href="/list">here</a> for a complete list):</p>
 
-  <div class="alert alert-info" role="alert"><strong>Note</strong> The notes contained within may be in draft, unfinished, or downright wrong :)</div>
+        <ul>
+          <li><a href="/data">Data Science</a></li>
+          <li><a href="/bots">Bots</a></li>
+          <li><a href="/austin">Austin, TX</a></li>
+          <li><a href="/jobs">Job Listings</a></li>
+          <li><a href="/quotes">Quotes</a></li>
+          <li><a href="/radar">Radar</a></li>
+          <li><a href="/rust">Rust (Programming Language)</a></li>
+        </ul>
 
-  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+        <strong>Note</strong> The notes contained within may be in draft, unfinished, or downright wrong :)
+
+      </div>
+
+    </div>
 
 </div>
+
