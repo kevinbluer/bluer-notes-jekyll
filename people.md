@@ -36,8 +36,8 @@ Plato
 George Washington Carver
 Enrico Fermi
 Harvey Weinstein
-Lynsey Addario
 Ron Howard
+Lynsey Addario
 Ralph Waldo Emmerson
 Pierre Hadot
 Neil Degrasse Tyson
@@ -65,6 +65,7 @@ Dario Fo
 Herodotus
 Sima Qian
 Ibn Khaldun
+Thomas Pornin
 
 #### Philosophers
 
