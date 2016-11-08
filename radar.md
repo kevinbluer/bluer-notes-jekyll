@@ -6,7 +6,7 @@ permalink: /radar/
 
 ### Locations
 
-- [Bellingham, WA](https://www.google.com/search?q=Bellingham&tbm=nws&rct=j)
+- [Bellingham, Washington](https://www.google.com/search?q=Bellingham&tbm=nws&rct=j)
 - [Tulum, Mexico](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=tulum)
 - [Chiang Mai, Thailand](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=chiang+mai)
 - [London, England](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=london+property)
@@ -20,6 +20,7 @@ permalink: /radar/
 
 ### Technology
 
+- [Hyperledger](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=hyperledger&tbm=nws)
 - [Amazon Echo](https://www.google.com.hk/search?q=amazon+echo&source=lnms&tbm=nws&sa=X&ved=0ahUKEwjmmsvA-L_PAhXBl5QKHR-PAgkQ_AUICSgC&biw=1680&bih=926)
 - [IPFS](https://www.google.com.hk/search?q=ipfs&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiUw8iu87bPAhUDJ5QKHTxMC5EQ_AUICCgB&biw=1680&bih=926)
 - [Google Fiber](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google+fiber&tbm=nws)
@@ -42,6 +43,10 @@ permalink: /radar/
 
 - [Slahi Mohamedou Ould](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=slahi+mohamedou+ould&tbm=nws)
 - [Amy Goodman](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=amy+goodman&tbm=nws)
+- [Glenn Greenwald](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=glenn+greenwald&tbm=nws)
+- [Trevor Noah](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=trevor+noah)
+- [Edward Snowden](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=edward+snowden&tbm=nws)
+- [Krista Tippett](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Krista+Tippett&tbm=nws)
 
 ### Vehicles
 
