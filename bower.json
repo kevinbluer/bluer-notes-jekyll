@@ -1,0 +1,18 @@
+{
+  "name": "bluer-notes",
+  "homepage": "http://notes.bluer.com",
+  "authors": [
+    "Kevin Bluer <kevin@bluer.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
