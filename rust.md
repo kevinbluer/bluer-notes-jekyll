@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rust
-permalink: /rust/`
+permalink: /rust/
 ---
 
 "Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety."
