@@ -8,3 +8,4 @@ permalink: /rust/
 
 - [Official Homepage](https://www.rust-lang.org)
 - [Rust Actor Library: First Assorted Thoughts](http://dbeck.github.io/Rust-Actor-Library-First-assorted-thoughts/)
+- [Announcing Rust 1.13](https://blog.rust-lang.org/2016/11/10/Rust-1.13.html)

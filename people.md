@@ -66,6 +66,8 @@ Herodotus
 Sima Qian
 Ibn Khaldun
 Thomas Pornin
+Niccolò Paganini
+James Baldwin
 
 #### Philosophers
 

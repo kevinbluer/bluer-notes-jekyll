@@ -9,6 +9,8 @@ permalink: /hidden-hong-kong/
 - Discovery Bay
 - Kowloon City
 - Sai Kung
-- Half Moon Bay
+- Half Moon Bay Beach
 - [Ozone Bar](http://www.ritzcarlton.com/en/hotels/china/hong-kong/dining/ozone)
 - [Hoi Ha Wan Marine Park](https://goo.gl/maps/vKTzZoRJrjF2)
+- Kowloon Tsai Park (and lookout)
+- Horizonte Lounge (at the top of the Hotel Madera)
