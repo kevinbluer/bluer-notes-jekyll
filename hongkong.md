@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hidden Hong Kong
-permalink: /hidden-hong-kong/
+permalink: /hongkong/
 ---
 
 - [Kam Shan Country Park](http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cou/cou_vis_cou_ks/cou_vis_cou_ks.html)
@@ -14,3 +14,6 @@ permalink: /hidden-hong-kong/
 - [Hoi Ha Wan Marine Park](https://goo.gl/maps/vKTzZoRJrjF2)
 - Kowloon Tsai Park (and lookout)
 - Horizonte Lounge (at the top of the Hotel Madera)
+- [Kai Tak Terminal Restaurants](http://www.kaitakcruiseterminal.com.hk/facilities/restaurants/)
+- [Manakamana Nepali Restaurant](https://en.tripadvisor.com.hk/Restaurant_Review-g294217-d1321684-Reviews-Manakamana_Nepali_Restaurant-Hong_Kong.html)
+- [Chor Bazare Indian Restaurant](http://www.chorbazare.com.hk)
