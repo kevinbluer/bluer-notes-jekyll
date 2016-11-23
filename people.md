@@ -68,6 +68,7 @@ Ibn Khaldun
 Thomas Pornin
 Niccolò Paganini
 James Baldwin
+Merrill Flood
 
 #### Philosophers
 

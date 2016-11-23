@@ -25,3 +25,4 @@ permalink: /quotes/
 - "Little by little, one travels far."", J.R.R. Tolkien
 - "Creativity is the power to reject the past, to change the status quo, and to seek new potential.", Ai Wei Wei
 - "All grownups were once children, but only few of them remember it.", Antoine de Saint-Exupéry
+- "There are no limits, there are only plateaus, but you must not stay there, you must go beyond them.", Bruce Lee
