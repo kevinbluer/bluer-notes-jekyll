@@ -69,6 +69,8 @@ Thomas Pornin
 Niccolò Paganini
 James Baldwin
 Merrill Flood
+Sacagawea
+John von Neumann
 
 #### Philosophers
 
