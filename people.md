@@ -70,7 +70,6 @@ Niccolò Paganini
 James Baldwin
 Merrill Flood
 Sacagawea
-John von Neumann
 
 #### Philosophers
 
@@ -89,3 +88,4 @@ Martha Nusbalm
 Michael Sandle
 Will Kimlicker
 Thomas Pogger
+Charles Baudelaire

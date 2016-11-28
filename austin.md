@@ -78,3 +78,7 @@ permalink: /austin/
 ## Guides
 
 - ["Why the rest of the country should be more like Austin"](https://www.thrillist.com/lifestyle/austin/why-the-rest-of-america-should-be-more-like-austin-texas)
+
+## Schools
+
+- [St Stephen's](http://austin.culturemap.com/news/city-life/11-25-16-best-private-high-schools-list-st-stephens-austin/)
