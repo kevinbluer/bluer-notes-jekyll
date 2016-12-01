@@ -18,4 +18,8 @@ Note that packages are installed and managed via Package Control (https://packag
 
 #### Sublime CLI
 
+```
 subl .
+```
+
+http://olivierlacan.com/posts/launch-sublime-text-3-from-the-command-line/

@@ -13,6 +13,8 @@ permalink: /radar/
 - [Austin, Texas](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=austin+texas&tbm=nws)
 - [Nairobi, Kenya](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=nairobi)
 - [Los Angeles, California](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=los+angeles&tbm=nws)
+- [Cranmore, Alberta](https://en.wikipedia.org/wiki/Canmore,_Alberta)
+- [Gran Canaria](https://en.wikipedia.org/wiki/Gran_Canaria)
 
 ### Events
 
