@@ -14,7 +14,7 @@ permalink: /radar/
 - [Nairobi, Kenya](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=nairobi)
 - [Los Angeles, California](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=los+angeles&tbm=nws)
 - [Cranmore, Alberta](https://en.wikipedia.org/wiki/Canmore,_Alberta)
-- [Gran Canaria](https://en.wikipedia.org/wiki/Gran_Canaria)
+- [Gran Canaria](https://en.wikipedia.org/wiki/Gran_Canaria) (trend)[https://nomadlist.com/blog/gran-canaria-europe-hotspot-digital-nomads]
 
 ### Events
 
