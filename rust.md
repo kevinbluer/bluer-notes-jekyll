@@ -16,3 +16,11 @@ permalink: /rust/
 #### Projects
 
 - [Thrussh](https://pijul.org/thrussh)
+
+#### 100 Days
+
+- Day #1 - Hello World
+- Day #2 - Cargo ("cargo new hello_world —bin") and installing via the bash script on Ubuntu)
+- Day #3 - Guessing Game Part #1 ("cargo new guessing_game --bin") + dependencies in Cargo.toml
+- Day #4 - Guessing Game Part #2
+- Day #5 - Guessing Game Part #3

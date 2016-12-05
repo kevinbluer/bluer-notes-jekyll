@@ -70,6 +70,7 @@ Niccolò Paganini
 James Baldwin
 Merrill Flood
 Sacagawea
+Herbert Robbins
 
 #### Philosophers
 

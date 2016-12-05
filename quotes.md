@@ -29,3 +29,5 @@ permalink: /quotes/
 - "Spend the afternoon. You can't take it with you.", [Annie Dillard](https://en.wikipedia.org/wiki/Annie_Dillard)
 - "Genius is nothing more nor less than childhood recaptured at will", [Charles Baudelaire](https://en.wikipedia.org/wiki/Charles_Baudelaire)
 - "Threats are the last resort of a man with no vocabulary", Tamora Pierce
+- "We are not makers of history. We are made by history." Martin Luther King, Jr
+- "Cheer up, the worst is yet to come", Mark Twain

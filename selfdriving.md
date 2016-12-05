@@ -6,7 +6,7 @@ permalink: /selfdriving/
 
 # Companies
 
-- [Comma.ai](http://comma.ai)
+- [Comma.ai](http://comma.ai) and [OpenPilot](https://github.com/commaai/openpilot)
 - [Zoox](http://zoox.co)
 - [Cruise Automation](https://www.getcruise.com)
 - [Tesla](https://www.tesla.com)

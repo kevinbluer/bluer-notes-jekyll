@@ -8,6 +8,11 @@ permalink: /deep-learning/
 
 - http://deeplearning.net
 
+#### Libraries
+
+- [Caffe]
+- [Chai](https://github.com/SullyChen/Chai)
+
 #### Environment Setup
 
 - https://github.com/saiprashanths/dl-setup
