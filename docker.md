@@ -16,7 +16,7 @@ permalink: /docker/
 - docker rm <id> / remove a particular container
 - docker rmi <id> / remove a particular image
 - docker logs <name> / show the logs for a given container
-- docker tag <imageid> kevinbluer/docker-whale:latest /
+- docker tag <imageid> kevinbluer/docker-whale:latest
 
 #### Examples Commands
 
@@ -36,8 +36,6 @@ permalink: /docker/
 - Every image is built upon a "base docker image" (such as [node slim](https://github.com/nodejs/docker-node))
 - Docker can build images automatically by reading the instructions from a [Dockerfile](https://docs.docker.com/engine/reference/builder/)
 - Note that to expose multiple ports you can simply use mutiple `-p` tags
-
-## Related Products and Services
 
 #### Docker Compose
 
