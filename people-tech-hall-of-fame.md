@@ -15,3 +15,4 @@ permalink: /tech-hall-of-fame/
 - Donald E. Knuth
 - John von Neumann
 - Peter Norvig
+- László "Les" Bélády

@@ -31,3 +31,6 @@ permalink: /quotes/
 - "Threats are the last resort of a man with no vocabulary", Tamora Pierce
 - "We are not makers of history. We are made by history." Martin Luther King, Jr
 - "Cheer up, the worst is yet to come", Mark Twain
+- "Regrets, I've had a few. But then again, too few to mention." Frank Sinatra
+- "For myself I am an optimist. It does not seem to be much use being anything else." Winston Churchill
+- "To try and fail is at least to learn", Chester Barnham

@@ -71,6 +71,11 @@ James Baldwin
 Merrill Flood
 Sacagawea
 Herbert Robbins
+Leslie Kaelbling
+Jean Meeus
+László "Les" Bélády
+Fei Xiaotong
+Leonard Nimoy
 
 #### Philosophers
 

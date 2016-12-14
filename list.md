@@ -27,7 +27,7 @@ Below is a complete list of all the notes...
 ### Travel
 
 - [Austin, TX](/austin)
-- Hong Kong, China
+- [Hong Kong, China](/hongkong)
 - [Chiang Mai, Thailand](/chiang-mai/)
 
 ### Life

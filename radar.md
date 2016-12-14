@@ -4,7 +4,13 @@ title: Radar
 permalink: /radar/
 ---
 
-### Locations
+### Trends
+
+- [Digital Nomadism](https://nomadlist.com/blog/gran-canaria-europe-hotspot-digital-nomads)
+- [Post Truth Politics](https://en.wikipedia.org/wiki/Post-truth_politics)
+- [Hacking and Associated Repercussions](https://en.wikipedia.org/wiki/Hacking)
+
+### Property
 
 - [Bellingham, Washington](https://www.google.com/search?q=Bellingham&tbm=nws&rct=j)
 - [Tulum, Mexico](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=tulum)
@@ -14,7 +20,15 @@ permalink: /radar/
 - [Nairobi, Kenya](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=nairobi)
 - [Los Angeles, California](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=los+angeles&tbm=nws)
 - [Cranmore, Alberta](https://en.wikipedia.org/wiki/Canmore,_Alberta)
-- [Gran Canaria](https://en.wikipedia.org/wiki/Gran_Canaria) (trend)[https://nomadlist.com/blog/gran-canaria-europe-hotspot-digital-nomads]
+- [Gran Canaria](https://en.wikipedia.org/wiki/Gran_Canaria)
+
+### Environment
+
+- [Austin Waller Creek](https://www.wallercreek.org)
+
+### Travel
+
+- [Bali](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bali&tbm=nws) and [The Kunja](http://www.thekunja.com)
 
 ### Events
 
@@ -26,16 +40,18 @@ permalink: /radar/
 - [Amazon Echo](https://www.google.com.hk/search?q=amazon+echo&source=lnms&tbm=nws&sa=X&ved=0ahUKEwjmmsvA-L_PAhXBl5QKHR-PAgkQ_AUICSgC&biw=1680&bih=926)
 - [IPFS](https://www.google.com.hk/search?q=ipfs&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiUw8iu87bPAhUDJ5QKHTxMC5EQ_AUICCgB&biw=1680&bih=926)
 - [Google Fiber](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google+fiber&tbm=nws)
-- [Pebble Time 2](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pebble+time+2&tbm=nws)
-- [MacBook Pro](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=macbook+pro)
-- [Oculus](https://www.oculus.com)
+- [Oculus Rift](https://www.oculus.com)
 - [Google Daydream](https://vr.google.com/daydream/)
+- [Keybase](https://keybase.io/)
+- [Database Engines](http://db-engines.com/en)
 
 ### Culture
 
 - [Before the Flood](http://www.imdb.com/title/tt5929776/)
-- [I am not your negro](http://trailers.apple.com/trailers/magnolia/i-am-not-your-negro/)
+- [I Am Not Your Negro](http://trailers.apple.com/trailers/magnolia/i-am-not-your-negro/)
 - [Project X](http://www.imdb.com/title/tt6185654/)
+- [Slum Village](http://www.slumvillage.com)
+- [Rick and Morty](http://www.adultswim.com/videos/rick-and-morty/)
 
 ### Currencies
 
