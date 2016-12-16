@@ -4,8 +4,7 @@ title: Bots
 permalink: /bots/
 ---
 
-# Chatbots
-
+- [Amazon Lex](https://aws.amazon.com/lex)
 - [Microsoft's 'Bot Platform'](https://dev.botframework.com)
 - [ChatScript](http://chatscript.sourceforge.net)
 - [Pandorabots](https://playground.pandorabots.com/en)
@@ -13,6 +12,7 @@ permalink: /bots/
 - [Rebot.me](http://rebot.me/page/about)
 - [Ola](http://olabot.com)
 - [wit.ai](https://wit.ai)
+- [api.ai](https://api.ai/)
 
 What else do I need to know?
 
