@@ -34,3 +34,11 @@ permalink: /quotes/
 - "Regrets, I've had a few. But then again, too few to mention." Frank Sinatra
 - "For myself I am an optimist. It does not seem to be much use being anything else." Winston Churchill
 - "To try and fail is at least to learn", Chester Barnham
+- "History doesn't repeat itself, but it sometimes rhymes." ??
+- "Your margin is my opportunity." Jeff Bezos
+- "Praise, like gold and diamonds, owes its value to its scarcity." Samuel Johnson
+- "How we spend our days is of course how we spend our lives." [Annie Dillard](https://en.wikipedia.org/wiki/Annie_Dillard)
+- "Man can only enjoy that with which he acquires through hard work and toil. The harder you work for something, the more you enjoy that. If something is easy, how much reward is there?", Unknown
+- "Some believe all that parents, tutors, and kindred believe. They take their principles by inheritance and defend them as they would their estates because they are born heirs to them.", Alan Watts
+- "All human knowledge is uncertain, inexact, and partial" Bertrand Russell
+- "Beyond mountains there are mountains", Haitian proverb
