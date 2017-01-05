@@ -4,94 +4,105 @@ title: People
 permalink: /people/
 ---
 
-#### Various
-
-Teilhard de Chardin
-Lu Yu
-Michael Jordan
-Emma Lazarus
-Alexander Hamilton
-Michael Faraday
-René Descartes
-Louis de Broglie
-Marie Curie
-Chagal
-Johann Sebastian Bach
-Alexander von Humboldt
-Steven Pressfield
-Juan Martín Maldacena
-Werner Heisenberg
-Thích Nhất Hạnh
-Margaret Thatcher
-Murasaki Shikibu
-Rudyard Kipling
-David Lynch
-Ernest Hemmingway
-AJ Muste
-Walt Whitman
-Martin Ford
-Lao Zhu
-Jackie Robinson
-Plato
-George Washington Carver
-Enrico Fermi
-Harvey Weinstein
-Ron Howard
-Lynsey Addario
-Ralph Waldo Emmerson
-Pierre Hadot
-Neil Degrasse Tyson
-Bruce Lee
-Malcolm X
-Viktor Frenkel
-Ian Flemming
-Walter Disney
-Booker T Washington
-George Pólya
-Henry David Theroux
-Nicolaus Copernicus
-Erasmus Darwin
-Harry Truman
-Marcus Aurelius
-Seneca
-Epicurus
-Epictetus
-William Blake
-DH Lawrence
-Octavia Estelle Butler
-Danny Hillis
-Lumière brothers
-Dario Fo
-Herodotus
-Sima Qian
-Ibn Khaldun
-Thomas Pornin
-Niccolò Paganini
-James Baldwin
-Merrill Flood
-Sacagawea
-Herbert Robbins
-Leslie Kaelbling
-Jean Meeus
-László "Les" Bélády
-Fei Xiaotong
-Leonard Nimoy
-
-#### Philosophers
-
-John Locke
-John Rawls
-Paul Satre
-Aristotle
-Kant
-Hobbs
-Hume
-Socrates
-Peter Singer
-Rousseau
-Herbert Simon
-Martha Nusbalm
-Michael Sandle
-Will Kimlicker
-Thomas Pogger
-Charles Baudelaire
+- Teilhard de Chardin
+- Lu Yu
+- Michael Jordan
+- Emma Lazarus
+- Alexander Hamilton
+- Michael Faraday
+- René Descartes
+- Louis de Broglie
+- Marie Curie
+- Chagal
+- Johann Sebastian Bach
+- Alexander von Humboldt
+- Steven Pressfield
+- Juan Martín Maldacena
+- Werner Heisenberg
+- Thích Nhất Hạnh
+- Margaret Thatcher
+- Murasaki Shikibu
+- Rudyard Kipling
+- David Lynch
+- Ernest Hemmingway
+- AJ Muste
+- Walt Whitman
+- Martin Ford
+- Lao Zhu
+- Jackie Robinson
+- Plato
+- George Washington Carver
+- Enrico Fermi
+- Harvey Weinstein
+- Ron Howard
+- Lynsey Addario
+- Ralph Waldo Emmerson
+- Pierre Hadot
+- Neil Degrasse Tyson
+- Bruce Lee
+- Malcolm X
+- Viktor Frenkel
+- Ian Flemming
+- Walter Disney
+- Booker T Washington
+- George Pólya
+- Henry David Theroux
+- Nicolaus Copernicus
+- Erasmus Darwin
+- Harry Truman
+- Marcus Aurelius
+- Seneca
+- Epicurus
+- Epictetus
+- Peter Singer
+- William Blake
+- DH Lawrence
+- Octavia Estelle Butler
+- Danny Hillis
+- Lumière brothers
+- Dario Fo
+- Herodotus
+- Sima Qian
+- Ibn Khaldun
+- Thomas Pornin
+- Niccolò Paganini
+- James Baldwin
+- Merrill Flood
+- Sacagawea
+- Herbert Robbins
+- Leslie Kaelbling
+- Jean Meeus
+- Paul Satre
+- László "Les" Bélády
+- Fei Xiaotong
+- Leonard Nimoy
+- Zsa Zsa Gabor
+- John Rawls
+- Henry Gantt
+- Frederick Taylor
+- Jane Goodall
+- Xi Jinping
+- Bertrand Russell
+- Reverend Thomas Bayes
+- Rousseau
+- Herbert Simon
+- Martha Nusbalm
+- Michael Sandle
+- Will Kimlicker
+- Thomas Pogger
+- Charles Mingus
+- Nelson Mandela
+- Eddie Izzard
+- Phillip K. Dick
+- Carl Friedrich Gauss
+- Pierre Simon Laplace
+- Emily Dickinson
+- Charles Darwin
+- Stephen J. Gould
+- John Locke
+- Aristotle
+- Immanuel Kant
+- Thomas Hobbes
+- David Hume
+- Socrates
+- Charles Baudelaire
