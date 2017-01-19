@@ -73,6 +73,8 @@ permalink: /austin/
 - [Top Texas State Parks to Visit in 2017](http://austin.culturemap.com/news/travel/01-06-17-top-texas-state-parks-to-visit/#slide=0)
 - [A Guide to Lake Travis](http://austin.culturemap.com/news/entertainment/08-29-16-lake-travis-guide-vacation/#slide=0)
 - ["Why the rest of the country should be more like Austin"](https://www.thrillist.com/lifestyle/austin/why-the-rest-of-america-should-be-more-like-austin-texas)
+- [The Craft Beer Guide to Austin](https://www.pastemagazine.com/articles/2017/01/the-craft-beer-guide-to-austin.html)
+- [365 Things Austin](http://365thingsaustin.com/)
 
 ## Road Trips
 
@@ -85,6 +87,7 @@ permalink: /austin/
 - [St Stephen's](http://austin.culturemap.com/news/city-life/11-25-16-best-private-high-schools-list-st-stephens-austin/)
 - [Zilker Elementary](http://zilkerelem.org)
 
-## Business Trends
+## Business
 
+- [Silicon Hills](http://www.siliconhillsnews.com/)
 - [Kauffman Index of Growth Entrepreneurship](http://www.kauffman.org/microsites/kauffman-index/reports/growth-entrepreneurship)
