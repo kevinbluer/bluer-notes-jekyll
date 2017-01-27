@@ -42,3 +42,9 @@ permalink: /quotes/
 - "Some believe all that parents, tutors, and kindred believe. They take their principles by inheritance and defend them as they would their estates because they are born heirs to them.", Alan Watts
 - "All human knowledge is uncertain, inexact, and partial" Bertrand Russell
 - "Beyond mountains there are mountains", Haitian proverb
+- "This is no time to engage in the luxury of cooling off or to take the tranquilizing drug of gradualism.", Martin Luther King Jnr
+- "Don't grow up, it's a trap"
+- "The river meanders because it can't think."
+- "The time is always right to do what is right.", Martin Luther King Jr.
+- "Once you get fancy, fancy gets broken", Unknown
+- "Every generation revolts against its fathers and makes friends with its grandfathers", Lewis Mumford
