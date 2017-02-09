@@ -98,6 +98,7 @@ permalink: /people/
 - Pierre Simon Laplace
 - Emily Dickinson
 - Charles Darwin
+- Robert Crumb
 - Stephen J. Gould
 - John Locke
 - Aristotle
@@ -106,3 +107,14 @@ permalink: /people/
 - David Hume
 - Socrates
 - Charles Baudelaire
+- Alexander Graham Bell
+- John Lewis
+- Naureen Shah
+- Joi Ito
+- Frederick Douglass
+- Marian Anderson
+- Joe Louis
+- J. S. G. Boggs
+- Richard I'Anson
+- Hans Rosling
+- James Baldwin
