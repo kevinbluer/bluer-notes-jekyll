@@ -118,3 +118,5 @@ permalink: /people/
 - Richard I'Anson
 - Hans Rosling
 - James Baldwin
+- Al Jarreau
+- Melaku Belachew
