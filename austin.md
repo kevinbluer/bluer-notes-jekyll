@@ -36,11 +36,12 @@ permalink: /austin/
 - [Vuka](http://www.vukaaustin.com/coworking)
 - [ATX Factory](http://www.atxfactory.com)
 
-## Where to Eat and Drink
+## Where to Eat + Drink
 
 - [Bouldin Creek Cafe](http://bouldincreekcafe.com)
 - [Eberly](http://eberlyaustin.com/)
 - [Geraldine's](http://www.geraldinesaustin.com)
+- [Sway](https://www.swayaustin.com)
 
 ## Kids
 
@@ -65,15 +66,17 @@ permalink: /austin/
 - [Austin Food + Wine Festival](http://www.austinfoodandwinefestival.com/)
 - [Austin Gorilla Run](http://austingorillarun.com/)
 - [Austin Jazz Festival](https://austinareajazzfestival.com/)
+- [New Festival](http://austin.culturemap.com/news/entertainment/10-11-16-sound-on-sound-sos-fest-late-night-shows-bands/)
 
 ## Guides
 
 - [100 Best Places to Live in the USA](http://realestate.usnews.com/places/rankings/best-places-to-live)
+- [Five reasons to live in Austin, Texas](https://propertylistings.ft.com/propertynews/united-states/4948-five-reasons-to-live-in-austin-texas.html)
 - [A taste of Austin, Texas](https://propertylistings.ft.com/propertynews/texas/4880-a-taste-of-austin-texas.html)
 - [Curbed Austin Pocket Guide: Winter 2016](http://austin.curbed.com/maps/places-to-visit-austin)
 - [Top Texas State Parks to Visit in 2017](http://austin.culturemap.com/news/travel/01-06-17-top-texas-state-parks-to-visit/#slide=0)
 - [A Guide to Lake Travis](http://austin.culturemap.com/news/entertainment/08-29-16-lake-travis-guide-vacation/#slide=0)
-- ["Why the rest of the country should be more like Austin"](https://www.thrillist.com/lifestyle/austin/why-the-rest-of-america-should-be-more-like-austin-texas)
+- [Why the rest of the country should be more like Austin](https://www.thrillist.com/lifestyle/austin/why-the-rest-of-america-should-be-more-like-austin-texas)
 - [The Craft Beer Guide to Austin](https://www.pastemagazine.com/articles/2017/01/the-craft-beer-guide-to-austin.html)
 - [365 Things Austin](http://365thingsaustin.com/)
 - [A Guide To Food And Drink In Austin, Texas](http://sprudge.com/a-guide-to-food-and-drink-in-austin-texas-115642.html)
@@ -93,3 +96,4 @@ permalink: /austin/
 
 - [Silicon Hills](http://www.siliconhillsnews.com/)
 - [Kauffman Index of Growth Entrepreneurship](http://www.kauffman.org/microsites/kauffman-index/reports/growth-entrepreneurship)
+- [A comprehensive guide to the best coworking spaces in Austin right now](http://austin.culturemap.com/news/innovation/10-11-16-best-coworking-spaces-offices-guide-austin-update/#slide=0)
