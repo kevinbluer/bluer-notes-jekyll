@@ -8,25 +8,35 @@ permalink: /austin/
 
 ## What to See and Do
 
-- Barton Springs
-- Deep Eddy
+- [Barton Springs](https://austintexas.gov/department/barton-springs-pool)
+- [Deep Eddy](http://www.austintexas.gov/department/deep-eddy-pool)
 - Reed Park
 - Texas Monthly
 - The Legs
 - Las Manitas
 - Hamilton Pool
 - Paddle Boarding by Hyatt
-- Bats
+- Bat Bridge
 - [Austin Boldering Project](http://austinboulderingproject.com/)
 - [Austin Surf Park](http://www.surfermag.com/features/north-americas-first-surf-park-will-open-friday/#YPDB21tdfRvizYXG.97)
 - [Circuit of the Americas Tour](http://circuitoftheamericas.com/tours)
+
+## Kids
+
+- [The Wildflower Center](http://www.wildflower.org/)
+- [The Austin Zoo](http://austinzoo.org/)
+- [iFly Austin](https://www.iflyworld.com/austin/)
+- [Austin Aquarium](http://www.austinaquarium.com/)
+- [Zilker Zephyr](http://zilkerpark.org/zilker-park-amenities/zilker-park-train/)
+- [Dino Pit](http://www.austintexas.gov/page/dino-pit)
+- [Blue Cat Cafe](http://www.bluecatcafe.com/)
 
 ## Where to Stay
 
 - [Hotel Van Zandt](http://www.hotelvanzandt.com)
 - [W Austin](http://www.whotelaustin.com)
 - [The Driskill](http://www.driskillhotel.com)
-- JW Marriott
+- [JW Marriott](http://www.jwmarriottaustin.com/?_vsrefdom=jwaustin-ppc)
 - [Four Seasons](http://www.fourseasons.com/austin)
 
 ## Where to Work
@@ -42,16 +52,6 @@ permalink: /austin/
 - [Eberly](http://eberlyaustin.com/)
 - [Geraldine's](http://www.geraldinesaustin.com)
 - [Sway](https://www.swayaustin.com)
-
-## Kids
-
-- The Wildflower Center
-- The Austin Zoo
-- iFly
-- Austin Aquarium
-- Zilker Zephyr
-- Dino Pit
-- Blue Cat Cafe
 
 ## Festivals & Events
 
@@ -97,3 +97,4 @@ permalink: /austin/
 - [Silicon Hills](http://www.siliconhillsnews.com/)
 - [Kauffman Index of Growth Entrepreneurship](http://www.kauffman.org/microsites/kauffman-index/reports/growth-entrepreneurship)
 - [A comprehensive guide to the best coworking spaces in Austin right now](http://austin.culturemap.com/news/innovation/10-11-16-best-coworking-spaces-offices-guide-austin-update/#slide=0)
+- [Austin is the best tech city on the planet](http://austin.curbed.com/2017/2/15/14612942/best-city-tech-austin)
