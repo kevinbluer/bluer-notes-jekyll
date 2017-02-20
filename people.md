@@ -120,3 +120,8 @@ permalink: /people/
 - James Baldwin
 - Al Jarreau
 - Melaku Belachew
+- Antonie Philips van Leeuwenhoek
+- John Muir
+- Frank Hurley
+- Art Wolfe
+- Theodor Adorno
