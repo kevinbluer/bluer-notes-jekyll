@@ -125,3 +125,7 @@ permalink: /people/
 - Frank Hurley
 - Art Wolfe
 - Theodor Adorno
+- Miles Davis
+- Enos Mills
+- Edouard de Laboulaye
+- Mae Carol Jemison
