@@ -80,15 +80,12 @@ permalink: /austin/
 - [The Craft Beer Guide to Austin](https://www.pastemagazine.com/articles/2017/01/the-craft-beer-guide-to-austin.html)
 - [365 Things Austin](http://365thingsaustin.com/)
 - [A Guide To Food And Drink In Austin, Texas](http://sprudge.com/a-guide-to-food-and-drink-in-austin-texas-115642.html)
-
-## Road Trips
-
-- Marfa
-- Big Bend National Park
-- San Antonio
+- [Austin, Texas: Where to stay, where to eat, what to do, how to get around](http://www.cleveland.com/travel/index.ssf/2017/03/austin_texas_where_to_stay_whe.html)
 
 ## Schools
 
+- [Headwaters](http://headwaters.org)
+- [Athena Montessori Academy](http://athenamontessoriacademy.com/)
 - [St Stephen's](http://austin.culturemap.com/news/city-life/11-25-16-best-private-high-schools-list-st-stephens-austin/)
 - [Zilker Elementary](http://zilkerelem.org)
 
@@ -98,3 +95,11 @@ permalink: /austin/
 - [Kauffman Index of Growth Entrepreneurship](http://www.kauffman.org/microsites/kauffman-index/reports/growth-entrepreneurship)
 - [A comprehensive guide to the best coworking spaces in Austin right now](http://austin.culturemap.com/news/innovation/10-11-16-best-coworking-spaces-offices-guide-austin-update/#slide=0)
 - [Austin is the best tech city on the planet](http://austin.curbed.com/2017/2/15/14612942/best-city-tech-austin)
+- [These major Austin employers rank among the best for work-from-home jobs](http://austin.culturemap.com/news/innovation/02-02-17-2-flexjobs-telecommuting-work-from-home-remote-austin/)
+
+## Road Trips
+
+- Marfa
+- Big Bend National Park
+- San Antonio
+- Lake Travis
