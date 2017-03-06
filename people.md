@@ -129,3 +129,10 @@ permalink: /people/
 - Enos Mills
 - Edouard de Laboulaye
 - Mae Carol Jemison
+- Yogi Berra
+- Octavia E. Butler
+- Charles M. Schulz
+- Spike Jonze
+- Yuval Noah Harari
+- Douglas Rushkoff
+- Frank Rose
