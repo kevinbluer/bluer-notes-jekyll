@@ -48,3 +48,8 @@ permalink: /quotes/
 - "The time is always right to do what is right.", Martin Luther King Jr.
 - "Once you get fancy, fancy gets broken", Unknown
 - "Every generation revolts against its fathers and makes friends with its grandfathers", Lewis Mumford
+- "First a reader, than a leader", Unknown
+- "You can observe a lot by just watching" Yogi Berra
+- "There's no way not to suffer. But you try all kinds of ways to keep from drowning in it." James Baldwin
+- "What's the good of living if you don't try a few things?" Charles M. Schulz
+- "You are imperfect, permanently and inevitably flawed. And you are beautiful." Amy Bloom
