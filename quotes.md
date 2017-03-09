@@ -53,3 +53,4 @@ permalink: /quotes/
 - "There's no way not to suffer. But you try all kinds of ways to keep from drowning in it." James Baldwin
 - "What's the good of living if you don't try a few things?" Charles M. Schulz
 - "You are imperfect, permanently and inevitably flawed. And you are beautiful." Amy Bloom
+- "Once you bring life into the world, you must protect it. We protect it by changing the world", Elie Wiesel
