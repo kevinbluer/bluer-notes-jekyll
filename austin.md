@@ -81,6 +81,7 @@ permalink: /austin/
 - [365 Things Austin](http://365thingsaustin.com/)
 - [A Guide To Food And Drink In Austin, Texas](http://sprudge.com/a-guide-to-food-and-drink-in-austin-texas-115642.html)
 - [Austin, Texas: Where to stay, where to eat, what to do, how to get around](http://www.cleveland.com/travel/index.ssf/2017/03/austin_texas_where_to_stay_whe.html)
+- [Austin, Texas: Is this America's coolest city?](http://www.telegraph.co.uk/travel/destinations/north-america/united-states/texas/articles/austin-texas-is-this-americas-coolest-city/)
 
 ## Schools
 
@@ -96,6 +97,11 @@ permalink: /austin/
 - [A comprehensive guide to the best coworking spaces in Austin right now](http://austin.culturemap.com/news/innovation/10-11-16-best-coworking-spaces-offices-guide-austin-update/#slide=0)
 - [Austin is the best tech city on the planet](http://austin.curbed.com/2017/2/15/14612942/best-city-tech-austin)
 - [These major Austin employers rank among the best for work-from-home jobs](http://austin.culturemap.com/news/innovation/02-02-17-2-flexjobs-telecommuting-work-from-home-remote-austin/)
+- [Austin home to one of the nation's 'most important' construction projects](http://www.bizjournals.com/austin/news/2017/03/03/austin-home-to-one-of-the-nations-most-important.html)
+
+## Health and Fitness
+
+- [World Running Guide: Austin, Texas](https://www.pastemagazine.com/articles/2017/02/world-running-guide-austin-texas.html)
 
 ## Road Trips
 
