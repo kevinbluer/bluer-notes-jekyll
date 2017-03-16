@@ -10,15 +10,12 @@ permalink: /austin/
 
 - [Barton Springs](https://austintexas.gov/department/barton-springs-pool)
 - [Deep Eddy](http://www.austintexas.gov/department/deep-eddy-pool)
-- Reed Park
-- Texas Monthly
-- The Legs
-- Las Manitas
-- Hamilton Pool
-- Paddle Boarding by Hyatt
-- Bat Bridge
+- [Reed Park](https://www.austinparks.org/parks/reed-park/)
+- [Hamilton Pool](https://parks.traviscountytx.gov/find-a-park/hamilton-pool)
+- [Paddle Boarding](http://www.supatx.com/rentals/)
+- [Bat Bridge](http://www.batsinaustin.com/)
 - [Austin Boldering Project](http://austinboulderingproject.com/)
-- [Austin Surf Park](http://www.surfermag.com/features/north-americas-first-surf-park-will-open-friday/#YPDB21tdfRvizYXG.97)
+- [NLand Surf Park](http://www.surfermag.com/features/north-americas-first-surf-park-will-open-friday/#YPDB21tdfRvizYXG.97)
 - [Circuit of the Americas Tour](http://circuitoftheamericas.com/tours)
 
 ## Kids
@@ -81,6 +78,8 @@ permalink: /austin/
 - [365 Things Austin](http://365thingsaustin.com/)
 - [A Guide To Food And Drink In Austin, Texas](http://sprudge.com/a-guide-to-food-and-drink-in-austin-texas-115642.html)
 - [Austin, Texas: Where to stay, where to eat, what to do, how to get around](http://www.cleveland.com/travel/index.ssf/2017/03/austin_texas_where_to_stay_whe.html)
+- [Austin, Texas: Is this America's coolest city?](http://www.telegraph.co.uk/travel/destinations/north-america/united-states/texas/articles/austin-texas-is-this-americas-coolest-city/)
+- [Wild Child's Guide To Austin, Texas](http://www.clashmusic.com/features/wild-childs-guide-to-austin-texas)
 
 ## Schools
 
@@ -96,6 +95,12 @@ permalink: /austin/
 - [A comprehensive guide to the best coworking spaces in Austin right now](http://austin.culturemap.com/news/innovation/10-11-16-best-coworking-spaces-offices-guide-austin-update/#slide=0)
 - [Austin is the best tech city on the planet](http://austin.curbed.com/2017/2/15/14612942/best-city-tech-austin)
 - [These major Austin employers rank among the best for work-from-home jobs](http://austin.culturemap.com/news/innovation/02-02-17-2-flexjobs-telecommuting-work-from-home-remote-austin/)
+- [Austin home to one of the nation's 'most important' construction projects](http://www.bizjournals.com/austin/news/2017/03/03/austin-home-to-one-of-the-nations-most-important.html)
+- [Austin, Texas, Poised to Be Commercial Hub for "New Mobility"](http://www.huffingtonpost.com/entry/austin-texas-poised-to-be-commercial-hub-for-new_us_58c836b7e4b02b847ccaa9e8)
+
+## Health and Fitness
+
+- [World Running Guide: Austin, Texas](https://www.pastemagazine.com/articles/2017/02/world-running-guide-austin-texas.html)
 
 ## Road Trips
 
