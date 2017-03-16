@@ -136,3 +136,19 @@ permalink: /people/
 - Yuval Noah Harari
 - Douglas Rushkoff
 - Frank Rose
+- Francis "Gene" Kranz
+- Slahi Mohamedou Ould
+- Amy Goodman
+- Glenn Greenwald
+- Trevor Noah
+- Edward Snowden
+- Krista Tippett
+- Jack Ma
+- William Morris
+- Tatanka Iyotake "Sitting Bull"
+- Ai Weiwei
+- George Bernard Shaw
+- John Dewey
+- Sugar Ray Robinson
+- David Deutsch
+- Lloyd Conover
