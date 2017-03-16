@@ -54,3 +54,17 @@ permalink: /quotes/
 - "What's the good of living if you don't try a few things?" Charles M. Schulz
 - "You are imperfect, permanently and inevitably flawed. And you are beautiful." Amy Bloom
 - "Once you bring life into the world, you must protect it. We protect it by changing the world", Elie Wiesel
+- "Life isn't about finding yourself. Life is about creating yourself", George Bernard Shaw
+- "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me.", Ralph Waldo Emerson
+- "Do your little bit of good wherever you are. It is those little bits together that overwhelm the world." Desmond Tutu
+- “Time is the wisest counselor of all.”, Pericles
+
+#### Business
+
+- “Work is love made visible.”, KG
+- "Life is in a constant state of flux and careers are long. As much as we obsess about the short-term, the immediate and the adrenaline rush of the moment – your career, your success and your legacy are created and built in the long-term.", Pascal Finette
+- "Make something people want and sell that, or be someone people need and sell you.", Ryan Lilly
+
+#### Technology
+
+- "Facebook makes me despise my friends and Twitter makes me hate the rest of the world", Nick Denton
