@@ -67,6 +67,7 @@ permalink: /austin/
 
 ## Guides
 
+- [Things to do in Austin, Texas all year round](http://edition.cnn.com/2017/03/17/travel/things-to-do-in-austin-texas/)
 - [100 Best Places to Live in the USA](http://realestate.usnews.com/places/rankings/best-places-to-live)
 - [Five reasons to live in Austin, Texas](https://propertylistings.ft.com/propertynews/united-states/4948-five-reasons-to-live-in-austin-texas.html)
 - [A taste of Austin, Texas](https://propertylistings.ft.com/propertynews/texas/4880-a-taste-of-austin-texas.html)
