@@ -8,6 +8,7 @@ Listed below are a range of technology centric job sites and resources. If you k
 
 ### General Listings
 
+- [Recruit.net](http://www.recruit.net)
 - [Toptal](https://www.toptal.com/)
 - [LinkedIn Jobs](http://www.linkedin.com/job/home)
 - [YCombinator Jobs](https://news.ycombinator.com/jobs)
@@ -86,6 +87,7 @@ Listed below are a range of technology centric job sites and resources. If you k
 - [Product Hunt Remote Jobs](https://www.producthunt.com/e/find-a-remote-job)
 - [Skillscrush](http://skillcrush.com/2014/10/10/sites-finding-remote-work/)
 - [TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)
+- [HN Thread](https://news.ycombinator.com/item?id=12844973)
 
 ### Interview Preparation
 

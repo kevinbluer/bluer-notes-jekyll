@@ -25,3 +25,9 @@ Excerpt from [
 - Hug for exposing APIs for other users' programs to consume
 - Arrow and parsedatetime for working with dates and times
 - Third-party general-purpose libraries: Boltons, Cython, and the awesome-python curated list
+
+#### Celery
+
+"Celery is a framework for performing asynchronous tasks in your application. Celery is written in Python and makes it very easy to offload work out of the synchronous request lifecycle of a web app onto a pool of task workers to perform jobs asynchronously."
+
+https://devcenter.heroku.com/articles/celery-heroku

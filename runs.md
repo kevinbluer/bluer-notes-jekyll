@@ -14,7 +14,7 @@ permalink: /running/
 
 - Hard as Nayls Half Marathon 2017 (April 30)
 
-#### One Day...
+#### One Day (although probably not)
 
 - Hellgate 100K
 - The Berkley Marathon

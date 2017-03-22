@@ -17,3 +17,6 @@ permalink: /hongkong/
 - [Kai Tak Terminal Restaurants](http://www.kaitakcruiseterminal.com.hk/facilities/restaurants/)
 - [Manakamana Nepali Restaurant](https://en.tripadvisor.com.hk/Restaurant_Review-g294217-d1321684-Reviews-Manakamana_Nepali_Restaurant-Hong_Kong.html)
 - [Chor Bazare Indian Restaurant](http://www.chorbazare.com.hk)
+- Po Toi O
+- Sha Tin Pass
+- Bluet Garden

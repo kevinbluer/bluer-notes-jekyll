@@ -13,6 +13,17 @@ permalink: /space/
 
 "A region of the solar system beyond the orbit of Neptune, believed to contain many comets, asteroids, and other small bodies made largely of ice."
 
+# Observation
+
+- Hubble Telescope (launched in 1990)
+
 #### Gravity
 
 - [Explained](https://youtu.be/YHS9g72npqA)
+
+#### Rockets
+
+- Name (e.g. Falcon 9)
+- Current status
+- Owner (e.g. SpaceX, NASA, etc)
+- Dates for future launches / missions

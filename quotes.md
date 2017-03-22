@@ -59,6 +59,11 @@ permalink: /quotes/
 - "Do your little bit of good wherever you are. It is those little bits together that overwhelm the world." Desmond Tutu
 - “Time is the wisest counselor of all.”, Pericles
 
+#### Life
+
+- "A year from now what will you wish you had done today?", Unknown
+- "Risk by its very nature is mysterious. It is mystery lived, for it ventures into lands that are not controlled or charted.", John Paul Lederach
+
 #### Business
 
 - “Work is love made visible.”, KG

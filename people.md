@@ -152,3 +152,9 @@ permalink: /people/
 - Sugar Ray Robinson
 - David Deutsch
 - Lloyd Conover
+- Thomas Francis Meagher
+- Chuck Berry
+- Sadhguru
+- John Herschel Glenn Jr.
+- Pascal Finette
+- Bob Lefsetz

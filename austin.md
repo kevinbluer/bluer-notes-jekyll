@@ -97,7 +97,8 @@ permalink: /austin/
 - [Austin is the best tech city on the planet](http://austin.curbed.com/2017/2/15/14612942/best-city-tech-austin)
 - [These major Austin employers rank among the best for work-from-home jobs](http://austin.culturemap.com/news/innovation/02-02-17-2-flexjobs-telecommuting-work-from-home-remote-austin/)
 - [Austin home to one of the nation's 'most important' construction projects](http://www.bizjournals.com/austin/news/2017/03/03/austin-home-to-one-of-the-nations-most-important.html)
-- [Austin, Texas, Poised to Be Commercial Hub for "New Mobility"](http://www.huffingtonpost.com/entry
+- [Austin, Texas, Poised to Be Commercial Hub for "New Mobility"](http://www.huffingtonpost.com/entry)
+- [Come for SXSW, stay for the booze: Austin’s hipster cachet is being greased by a craft liquor boom](http://www.cnbc.com/2017/03/17/come-for-sxsw-stay-for-the-booze-austins-hipster-cachet-is-being-greased-by-a-craft-liquor-boom.html)
 
 ## Health and Fitness
 

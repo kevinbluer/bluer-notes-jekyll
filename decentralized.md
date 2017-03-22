@@ -12,6 +12,7 @@ permalink: /decentralized/
 - [Swarm](https://github.com/ethersphere/swarm)
 - [Maidsafe](https://maidsafe.net)
 - [Storj](https://storj.io)
+- [SeaweedFS](https://github.com/chrislusf/seaweedfs)
 
 ### Blockchains
 

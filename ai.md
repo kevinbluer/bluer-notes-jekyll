@@ -4,6 +4,12 @@ title: Artificial Intelligence
 permalink: /ai/
 ---
 
+### Types
+
+- Artificial Narrow Intelligence (ANI)
+- Artificial General Intelligence (AGI)
+- Artificial Super Intelligence (ASI)
+
 ### Applications of AI
 
 - Bots
@@ -12,11 +18,7 @@ permalink: /ai/
 - Spam filtering
 - Driving
 
-### Noteworthy Projects
-
-- [iGAN, "A deep learning software that easily generates images with a few brushstrokes"](https://github.com/junyanz/iGAN)
-
-### Types
+#### Concepts
 
 - Machine Learning
 - Alpha Beta Pruning
@@ -26,26 +28,43 @@ permalink: /ai/
 - Natural Language Processing
 - Generative Adversarial Networks
 
-##### Acronyms
+#### Acronyms
 
+- FFNN - Fast Forward Neural Network 
 - LSTM - Long Short-term Memory Network
 - RNN - Recurrent Neural Networks
 - GNMT - Google Neural Machine Translation
 
-##### People you should know
+#### People you should know
 
 - [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis)
 - [Yann LeCun, Facebook](https://research.facebook.com/yann-lecun)
 - [Léon Bottou](https://en.wikipedia.org/wiki/L%C3%A9on_Bottou)
 
-##### Societal and Ethical
+#### Neural Nets
+
+- Feed Forward (as it trains, data just flows one way...from the input node to the output node)
+
+### Noteworthy Projects
+
+- [iGAN, "A deep learning software that easily generates images with a few brushstrokes"](https://github.com/junyanz/iGAN)
+
+##### Open AI Universe
+
+Taken from the awesome [sirajology](https://www.youtube.com/watch?v=mGYU5t8MO7s):
+
+- Lets you train and test bots in 1000s of games
+- Reinforcement learning is the process of trial and error to learn
+- If your bot can defeat any env, you solved intelligence
+
+#### Societal and Ethical
 
 - [Partnership on AI](http://www.partnershiponai.org)
 
-##### Reference
+#### Reference
 
 - [Facebook AI Research](https://research.facebook.com/ai/)
 
-##### Research and Papers
+#### Papers
 
 - [A Neural Network for Machine Translation, at Production Scale](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)
