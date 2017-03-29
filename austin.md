@@ -67,6 +67,9 @@ permalink: /austin/
 
 ## Guides
 
+- [Summer Anne Burton's guide to Austin, Texas (Map)](https://www.google.com/maps/d/viewer?mid=1GoywbkhNdejGsv1JhvG4VAcrbIA&ll=30.279112474780227%2C-97.75016575000006&z=11)
+- [Summer Anne's Guide To Austin, Texas (Doc)](https://docs.google.com/document/d/1CnDHAHFElInc40tLqG4o2awPVHdkIrvotxwR1IrwJGU/edit)
+- ['I could never live in Texas. This is Austin.' — A four-day getaway to the capital city.](https://www.washingtonpost.com/lifestyle/travel/i-could-never-live-in-texas-this-is-austin-a-four-day-getaway-to-the-capital-city/2017/03/23/5e50b3aa-0a91-11e7-93dc-00f9bdd74ed1_story.html)
 - [Things to do in Austin, Texas all year round](http://edition.cnn.com/2017/03/17/travel/things-to-do-in-austin-texas/)
 - [100 Best Places to Live in the USA](http://realestate.usnews.com/places/rankings/best-places-to-live)
 - [Five reasons to live in Austin, Texas](https://propertylistings.ft.com/propertynews/united-states/4948-five-reasons-to-live-in-austin-texas.html)
@@ -91,6 +94,8 @@ permalink: /austin/
 
 ## Business
 
+- [BuzzFeed is Opening its First Texas Office](http://www.texasmonthly.com/the-daily-post/why-buzzfeed-is-opening-its-first-texas-office/)
+- [Austin surprises as one of the world's top cities to watch](http://austin.culturemap.com/news/real-estate/03-24-17-austin-commercial-investment-world-ranking/)
 - [Silicon Hills](http://www.siliconhillsnews.com/)
 - [Kauffman Index of Growth Entrepreneurship](http://www.kauffman.org/microsites/kauffman-index/reports/growth-entrepreneurship)
 - [A comprehensive guide to the best coworking spaces in Austin right now](http://austin.culturemap.com/news/innovation/10-11-16-best-coworking-spaces-offices-guide-austin-update/#slide=0)
