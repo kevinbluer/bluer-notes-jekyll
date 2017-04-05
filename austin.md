@@ -67,6 +67,7 @@ permalink: /austin/
 
 ## Guides
 
+- [Flavors Only Found in Austin](https://www.usatoday.com/story/travel/experience/food-and-wine/2017/04/03/austin-texas-trademark-tastes/99951162/)
 - [Summer Anne Burton's guide to Austin, Texas (Map)](https://www.google.com/maps/d/viewer?mid=1GoywbkhNdejGsv1JhvG4VAcrbIA&ll=30.279112474780227%2C-97.75016575000006&z=11)
 - [Summer Anne's Guide To Austin, Texas (Doc)](https://docs.google.com/document/d/1CnDHAHFElInc40tLqG4o2awPVHdkIrvotxwR1IrwJGU/edit)
 - ['I could never live in Texas. This is Austin.' — A four-day getaway to the capital city.](https://www.washingtonpost.com/lifestyle/travel/i-could-never-live-in-texas-this-is-austin-a-four-day-getaway-to-the-capital-city/2017/03/23/5e50b3aa-0a91-11e7-93dc-00f9bdd74ed1_story.html)
