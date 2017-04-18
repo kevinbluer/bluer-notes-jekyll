@@ -63,6 +63,7 @@ permalink: /quotes/
 
 - "A year from now what will you wish you had done today?", Unknown
 - "Risk by its very nature is mysterious. It is mystery lived, for it ventures into lands that are not controlled or charted.", John Paul Lederach
+- "This being human is a guest house. Every morning a new arrival. A joy, a depression, a meanness, some momentary awareness comes as an unexpected visitor. Welcome and entertain them all! Even if they are a crowd of sorrows, who violently sweep your house empty of its furniture, still, treat each guest honorably. He may be clearing you out for some new delight. The dark thought, the shame, the malice. meet them at the door laughing and invite them in. Be grateful for whatever comes. Because each has been sent as a guide from beyond.", Rumi
 
 #### Business
 
