@@ -24,6 +24,7 @@ A list of rolling yearly events, festivals, celebrations, etc...
 #### April
 
 - [Earth Day](http://www.earthday.org), Around the World
+- [World Book Day](http://www.worldbookday.com/), Around the World
 
 #### May
 
@@ -37,6 +38,8 @@ A list of rolling yearly events, festivals, celebrations, etc...
 #### July
 
 #### August
+
+- [Lost Village Festival](http://lostvillagefestival.com), United Kingdom
 
 #### September
 
