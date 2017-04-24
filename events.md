@@ -12,13 +12,18 @@ A list of rolling yearly events, festivals, celebrations, etc...
 
 #### February
 
+- [Hong Kong Race Week](http://www.hongkongraceweek.com) 
+
 #### March
 
 - [SXSW](https://www.sxsw.com/), Austin, United States
 - [Art Basel](https://www.artbasel.com/hong-kong), Hong Kong, China
 - [Winter Music Conference](http://www.wintermusicconference.com), Miami, United States
+- [Earth Hour](https://www.earthhour.org/), Around the World
 
 #### April
+
+- [Earth Day](http://www.earthday.org), Around the World
 
 #### May
 

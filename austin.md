@@ -85,6 +85,7 @@ permalink: /austin/
 - [Austin, Texas: Where to stay, where to eat, what to do, how to get around](http://www.cleveland.com/travel/index.ssf/2017/03/austin_texas_where_to_stay_whe.html)
 - [Austin, Texas: Is this America's coolest city?](http://www.telegraph.co.uk/travel/destinations/north-america/united-states/texas/articles/austin-texas-is-this-americas-coolest-city/)
 - [Wild Child's Guide To Austin, Texas](http://www.clashmusic.com/features/wild-childs-guide-to-austin-texas)
+- [Austin, Texas: Where Musicians Go to Thrive](https://www.lifezette.com/popzette/austin-texas-musicians-go-thrive/)
 
 ## Schools
 

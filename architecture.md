@@ -4,7 +4,7 @@ title: Architecture
 permalink: /architecture/
 ---
 
-#### Orders
+#### Orders + Styles
 
 - Doric
 - Ionic

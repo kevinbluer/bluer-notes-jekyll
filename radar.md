@@ -10,10 +10,12 @@ permalink: /radar/
 - [Post Truth Politics](https://en.wikipedia.org/wiki/Post-truth_politics)
 - [Hacking and Associated Repercussions](https://en.wikipedia.org/wiki/Hacking)
 - [One Belt, One Road](www.yidaiyilu.gov.cn)
+- [Pear River Delta](https://www.google.com.hk/search?q=Pearl+River+Delta&source=lnms&tbm=nws&sa=X&ved=0ahUKEwjBouG76JjTAhUBnZQKHbTiBcEQ_AUICigD&biw=1680&bih=926)
 
 ### Property
 
 - [Bellingham, Washington](https://www.google.com/search?q=Bellingham&tbm=nws&rct=j)
+- [Miami, Florida](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=miami+condos&tbm=nws&*)
 - [Tulum, Mexico](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=tulum)
 - [Puerto Vallarta, Mexico](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=Puerto+Vallarta&*)
 - [Chiang Mai, Thailand](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#tbm=nws&q=chiang+mai)
@@ -26,6 +28,8 @@ permalink: /radar/
 
 ### Environment
 
+- [The Hills on Governor's Island](http://ny.curbed.com/2016/7/19/12212890/governors-island-hills-engineering-west-8)
+- [Swale, NYC](http://www.swaleny.org/)
 - [Austin Waller Creek](https://www.wallercreek.org)
 - [Shoal Creek Conservancy](https://www.shoalcreekconservancy.org)
 

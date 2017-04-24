@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collapsed</key>
+	<true/>
+	<key>resolutionData</key>
+	<dict>
+		<key>collapsed</key>
+		<real>513421771.75822902</real>
+		<key>sheetClusters</key>
+		<dict/>
+	</dict>
+	<key>sheetClusters</key>
+	<array/>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>collapsed</key>
+		<dict>
+			<key>BB5A116A-0655-4559-ABCF-552AF4ADFE7B</key>
+			<integer>1</integer>
+		</dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>BB5A116A-0655-4559-ABCF-552AF4ADFE7B</key>
+			<integer>8</integer>
+			<key>D3E1EE67-8838-4D72-B687-E9F141FA846C</key>
+			<integer>9</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

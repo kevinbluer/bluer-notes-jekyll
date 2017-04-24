@@ -158,3 +158,7 @@ permalink: /people/
 - John Herschel Glenn Jr.
 - Pascal Finette
 - Bob Lefsetz
+- Helen Keller
+- Erich Maria Remarque
+- Hernando De Soto
+- William Ernest Hocking
