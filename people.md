@@ -162,3 +162,5 @@ permalink: /people/
 - Erich Maria Remarque
 - Hernando De Soto
 - William Ernest Hocking
+- Stamford Raffles
+- Jane Addams

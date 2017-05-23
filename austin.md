@@ -67,6 +67,7 @@ permalink: /austin/
 
 ## Guides
 
+- [Brew With a View: Austin, Texas](https://www.pastemagazine.com/articles/2017/03/brew-with-a-view-austin-texas.html)
 - [Flavors Only Found in Austin](https://www.usatoday.com/story/travel/experience/food-and-wine/2017/04/03/austin-texas-trademark-tastes/99951162/)
 - [Summer Anne Burton's guide to Austin, Texas (Map)](https://www.google.com/maps/d/viewer?mid=1GoywbkhNdejGsv1JhvG4VAcrbIA&ll=30.279112474780227%2C-97.75016575000006&z=11)
 - [Summer Anne's Guide To Austin, Texas (Doc)](https://docs.google.com/document/d/1CnDHAHFElInc40tLqG4o2awPVHdkIrvotxwR1IrwJGU/edit)
@@ -86,6 +87,7 @@ permalink: /austin/
 - [Austin, Texas: Is this America's coolest city?](http://www.telegraph.co.uk/travel/destinations/north-america/united-states/texas/articles/austin-texas-is-this-americas-coolest-city/)
 - [Wild Child's Guide To Austin, Texas](http://www.clashmusic.com/features/wild-childs-guide-to-austin-texas)
 - [Austin, Texas: Where Musicians Go to Thrive](https://www.lifezette.com/popzette/austin-texas-musicians-go-thrive/)
+- [Love Texas? Here's 5 reasons you'll want to vacation in Austin](http://www.foxnews.com/travel/2017/05/08/love-texas-heres-5-reasons-youll-want-to-vacation-in-austin.html)
 
 ## Schools
 

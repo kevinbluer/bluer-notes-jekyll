@@ -9,10 +9,11 @@ permalink: /running/
 - Hong Kong Marathon 2015
 - Austin Half Marathon 2016
 - Hong Kong Marathon 2017 (4:38:24)
+- Hard as Nayls Half Marathon 2017 (April 30)
 
 #### Upcoming
 
-- Hard as Nayls Half Marathon 2017 (April 30)
+- Yokohama Marathon, October 29th 2017
 
 #### One Day (although probably not)
 

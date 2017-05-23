@@ -10,11 +10,15 @@
 		<real>513421771.75822902</real>
 		<key>sheetClusters</key>
 		<dict/>
+		<key>userIconName</key>
+		<real>514997078.62291098</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array/>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
+	<key>userIconName</key>
+	<string>Book</string>
 	<key>versioning</key>
 	<dict>
 		<key>collapsed</key>
@@ -25,9 +29,14 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>BB5A116A-0655-4559-ABCF-552AF4ADFE7B</key>
-			<integer>11</integer>
+			<integer>15</integer>
 			<key>D3E1EE67-8838-4D72-B687-E9F141FA846C</key>
-			<integer>12</integer>
+			<integer>16</integer>
+		</dict>
+		<key>userIconName</key>
+		<dict>
+			<key>D3E1EE67-8838-4D72-B687-E9F141FA846C</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>

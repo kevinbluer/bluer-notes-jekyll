@@ -7,6 +7,7 @@ permalink: /tribes/
 - Surma (South Sudan and southwestern Ethiopia)
 - Standing Rock Sioux (United States)
 - Khmer Loeu (Cambodia)
+- Arikara (North Dakota)
 
 #### Sacred Sites
 
