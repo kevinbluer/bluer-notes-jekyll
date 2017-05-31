@@ -115,6 +115,9 @@ permalink: /austin/
 
 ## Road Trips
 
+- [The ultimate guide to the 10 best places to camp across Texas](http://austin.culturemap.com/news/travel/05-26-17-where-to-camp-best-camping-sites-texas/#slide=0)
+- [15 small towns near Austin you need to visit right now](https://austin.curbed.com/maps/small-towns-near-austin-best-places-visit)
+- [Best lake getaways](http://austin.culturemap.com/news/travel/05-19-17-best-lakes-austin-canyon-lbj-buchanan/)
 - Marfa
 - Big Bend National Park
 - San Antonio
