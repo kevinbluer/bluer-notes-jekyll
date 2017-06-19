@@ -51,6 +51,7 @@ permalink: /radar/
 - [Google Fiber](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google+fiber&tbm=nws)
 - [Oculus Rift](https://www.oculus.com)
 - [Google Daydream](https://vr.google.com/daydream/)
+- [Google Home](https://madeby.google.com/home/)
 - [Keybase](https://keybase.io/)
 - [Database Engines](http://db-engines.com/en)
 - [Beoplay A9](https://www.beoplay.com/products/beoplaya9)
@@ -81,6 +82,7 @@ permalink: /radar/
 ### Vehicles
 
 - [Audi Q7](https://www.audiusa.com/models/audi-q7)
+- [Audi Q8](http://www.audi.com/en/innovation/design/audi_q8_concept.html)
 - [Mazda CX9](https://www.mazdausa.com/vehicles/cx-9)
 - [Volkswagen Atlas](http://www.vw.com/models/atlas/)
 - [BMW i3](http://www.bmw.com/com/en/newvehicles/i/overview.html)

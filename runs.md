@@ -14,6 +14,7 @@ permalink: /running/
 #### Upcoming
 
 - Yokohama Marathon, October 29th 2017
+- Austin Marathon, February 18th 2018
 
 #### One Day (although probably not)
 

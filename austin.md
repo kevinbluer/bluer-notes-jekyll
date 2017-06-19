@@ -67,6 +67,8 @@ permalink: /austin/
 
 ## Guides
 
+- [Austin, Texas is a mecca for music lovers](http://www.stuff.co.nz/travel/destinations/usa/92609564/austin-texas-is-a-mecca-for-music-lovers)
+- [How to spend the first 24 hours in Austin, Texas](http://www.wanderlust.co.uk/magazine/articles/destinations/first-24-hours-austin-texas)
 - [Brew With a View: Austin, Texas](https://www.pastemagazine.com/articles/2017/03/brew-with-a-view-austin-texas.html)
 - [Flavors Only Found in Austin](https://www.usatoday.com/story/travel/experience/food-and-wine/2017/04/03/austin-texas-trademark-tastes/99951162/)
 - [Summer Anne Burton's guide to Austin, Texas (Map)](https://www.google.com/maps/d/viewer?mid=1GoywbkhNdejGsv1JhvG4VAcrbIA&ll=30.279112474780227%2C-97.75016575000006&z=11)

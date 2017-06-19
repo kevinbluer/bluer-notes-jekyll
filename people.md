@@ -164,3 +164,15 @@ permalink: /people/
 - William Ernest Hocking
 - Stamford Raffles
 - Jane Addams
+- Fanny Parkes
+- Oscar Wilde
+- Dean Karnazes
+- Max Michaelis
+- Cleopatra
+- James Watson
+- Francis Crick
+- Studs Terkel
+- Karl Marx
+- Jack London
+- Voltaire
+- Jacob Burckhardt
