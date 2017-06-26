@@ -176,3 +176,11 @@ permalink: /people/
 - Jack London
 - Voltaire
 - Jacob Burckhardt
+- Muhammad Yunus
+- Wangari Maathai
+- Shirin Ebadi
+- E.B. White
+- Booker T. Washington
+- Toscanini
+- Richard Wagner
+- John Hunter

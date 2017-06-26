@@ -67,6 +67,7 @@ permalink: /quotes/
 - "The limits of the possible can only be defined by going beyond them into the impossible.", Arthur C. Clarke
 - "A person who never made a mistake never tried anything new.", Albert Einstein
 - "The person who does not read is no better off than the person who can't read.", Mark Twain
+- "Always be on the lookout for the presence of wonder", E.B. White
 
 #### Business
 
