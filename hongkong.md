@@ -20,3 +20,4 @@ permalink: /hongkong/
 - Po Toi O
 - Sha Tin Pass
 - Bluet Garden
+- [Lantau Island](http://edition.cnn.com/travel/article/lantau-island-hong-kong/index.html)

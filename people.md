@@ -184,3 +184,5 @@ permalink: /people/
 - Toscanini
 - Richard Wagner
 - John Hunter
+- Shel Silverstein
+- Elias Burstein

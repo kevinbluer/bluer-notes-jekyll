@@ -67,6 +67,10 @@ permalink: /austin/
 
 ## Guides
 
+- [4 Hill Country hot spots to eat and drink after floating the river](http://austin.culturemap.com/news/travel/07-04-17-where-to-eat-tubing-floating-the-river-new-braunfels-gruene/#slide=0)
+- [The 9 best places to camp in and around Austin](http://austin.culturemap.com/news/travel/05-03-16-where-to-camp-best-camping-spots-austin-parks-outdoors-inks-lake-enchanted-rock-campsites/#slide=0)
+- [Curbed Austin pocket guide: summer 2017](https://austin.curbed.com/maps/places-to-visit-austin)
+- [The Hippest Restaurants and Design Hotels in Austin, Texas](http://www.huffingtonpost.com/entry/the-hippest-restaurants-and-design-hotels-in-austin_us_595349b8e4b0f078efd985fc)
 - [Austin, Texas is a mecca for music lovers](http://www.stuff.co.nz/travel/destinations/usa/92609564/austin-texas-is-a-mecca-for-music-lovers)
 - [How to spend the first 24 hours in Austin, Texas](http://www.wanderlust.co.uk/magazine/articles/destinations/first-24-hours-austin-texas)
 - [Brew With a View: Austin, Texas](https://www.pastemagazine.com/articles/2017/03/brew-with-a-view-austin-texas.html)
@@ -100,6 +104,7 @@ permalink: /austin/
 
 ## Business
 
+- [Austin's Best Places to Work in 2017](http://www.bizjournals.com/austin/news/2017/06/23/austin-best-places-to-work-2017.html)
 - [BuzzFeed is Opening its First Texas Office](http://www.texasmonthly.com/the-daily-post/why-buzzfeed-is-opening-its-first-texas-office/)
 - [Austin surprises as one of the world's top cities to watch](http://austin.culturemap.com/news/real-estate/03-24-17-austin-commercial-investment-world-ranking/)
 - [Silicon Hills](http://www.siliconhillsnews.com/)

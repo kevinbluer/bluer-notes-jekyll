@@ -68,6 +68,7 @@ permalink: /quotes/
 - "A person who never made a mistake never tried anything new.", Albert Einstein
 - "The person who does not read is no better off than the person who can't read.", Mark Twain
 - "Always be on the lookout for the presence of wonder", E.B. White
+- "Composing wild, undisciplined, pure, coming in from under, crazier the better", Jack Kerouac
 
 #### Business
 
