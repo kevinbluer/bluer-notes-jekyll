@@ -186,3 +186,8 @@ permalink: /people/
 - John Hunter
 - Shel Silverstein
 - Elias Burstein
+- Jo Ann Robinson
+- Vernon Johns
+- Rosa Parks
+- Medgar Evers
+- Lorraine Hansberry

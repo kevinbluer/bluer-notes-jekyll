@@ -69,6 +69,7 @@ permalink: /quotes/
 - "The person who does not read is no better off than the person who can't read.", Mark Twain
 - "Always be on the lookout for the presence of wonder", E.B. White
 - "Composing wild, undisciplined, pure, coming in from under, crazier the better", Jack Kerouac
+- "Do. Or do not. There is no try.", Yoda
 
 #### Business
 

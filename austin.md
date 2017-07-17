@@ -67,6 +67,7 @@ permalink: /austin/
 
 ## Guides
 
+- [How to Spend a Night in Austin](https://www.vice.com/en_us/article/nevzpx/how-to-spend-a-night-in-austin)
 - [4 Hill Country hot spots to eat and drink after floating the river](http://austin.culturemap.com/news/travel/07-04-17-where-to-eat-tubing-floating-the-river-new-braunfels-gruene/#slide=0)
 - [The 9 best places to camp in and around Austin](http://austin.culturemap.com/news/travel/05-03-16-where-to-camp-best-camping-spots-austin-parks-outdoors-inks-lake-enchanted-rock-campsites/#slide=0)
 - [Curbed Austin pocket guide: summer 2017](https://austin.curbed.com/maps/places-to-visit-austin)
