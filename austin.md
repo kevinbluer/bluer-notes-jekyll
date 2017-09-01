@@ -67,6 +67,9 @@ permalink: /austin/
 
 ## Guides
 
+- [How to spend 48 hours in America's coolest city](http://www.telegraph.co.uk/travel/destinations/north-america/united-states/texas/articles/weekend-break-austin-texas-do-see-stay/)
+- [Austin, Texas, contender as live music capital of the world](https://www.thestar.com/life/travel/2017/08/03/austin-texas-contender-as-live-music-capital-of-the-world.html)
+- [Honky tonk and vegan food: People who left the Bay Area for Austin tell us what it's really like](http://www.sfgate.com/local/article/Bay-Area-residents-moving-Austin-Texas-relocating-11284819.php)
 - [How to Spend a Night in Austin](https://www.vice.com/en_us/article/nevzpx/how-to-spend-a-night-in-austin)
 - [4 Hill Country hot spots to eat and drink after floating the river](http://austin.culturemap.com/news/travel/07-04-17-where-to-eat-tubing-floating-the-river-new-braunfels-gruene/#slide=0)
 - [The 9 best places to camp in and around Austin](http://austin.culturemap.com/news/travel/05-03-16-where-to-camp-best-camping-spots-austin-parks-outdoors-inks-lake-enchanted-rock-campsites/#slide=0)
@@ -105,6 +108,9 @@ permalink: /austin/
 
 ## Business
 
+- [Austin Technology’s Barbary Brunner Talks Texas, Discrimination, And What’s Next For Her City](https://news.crunchbase.com/news/austin-technologys-barbary-brunner-talks-texas-discrimination-whats-next-city)
+- [As Tech Hubs Tighten Their Grip, Where Is the Next Silicon Valley?](http://www.hiringlab.org/2017/07/25/next-silicon-valley/)
+- [Which workplaces are best for new dads?](https://www.bizjournals.com/austin/news/2017/06/16/which-workplaces-are-best-places-for-new-dads.html)
 - [Austin's Best Places to Work in 2017](http://www.bizjournals.com/austin/news/2017/06/23/austin-best-places-to-work-2017.html)
 - [BuzzFeed is Opening its First Texas Office](http://www.texasmonthly.com/the-daily-post/why-buzzfeed-is-opening-its-first-texas-office/)
 - [Austin surprises as one of the world's top cities to watch](http://austin.culturemap.com/news/real-estate/03-24-17-austin-commercial-investment-world-ranking/)

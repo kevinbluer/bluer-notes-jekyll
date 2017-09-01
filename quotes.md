@@ -4,10 +4,10 @@ title: Quotes
 permalink: /quotes/
 ---
 
-- "If you ain't aim too high. Then you aim too low.", [J Cole](http://genius.com/J-cole-january-28th-lyrics)
-- "We're all just walking each other home.", [Ram Dass](https://en.wikipedia.org/wiki/Ram_Dass)
-- "Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.", [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)
-- "I am a cage, in search of a bird", [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka)
+- "If you ain't aim too high. Then you aim too low.", [J Cole][1]
+- "We're all just walking each other home.", [Ram Dass][2]
+- "Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.", [Franz Kafka][3]
+- "I am a cage, in search of a bird", [Franz Kafka][4]
 - "Be conservative (careful) in what you do. Be liberal in what you accept."
 - "Is it not madness and the wildest lunacy, to desire so much, when you can hold so little.", Seneca
 - "Nothing is worth doing pointlessly.", Marcus Aurelius
@@ -16,7 +16,7 @@ permalink: /quotes/
 - "We never really grow up, we only learn how to act in public.", Bryan White
 - "I have always imagined that Paradise will be a kind of library", Jorge Luis Borges
 - "We cannot rewrite history, but we can right history", Mark Hayes
-- "You only live once, but if you do it right, once is enough.", [Mae West](https://en.wikipedia.org/wiki/Mae_West)
+- "You only live once, but if you do it right, once is enough.", [Mae West][5]
 - "The value of history is that it teaches us what man has done and thus what man is.", R. G. Collingwood
 - "Those who cannot remember the past are condemned to repeat it.", George Santayana
 - "I am here to live out loud", Emile Zola
@@ -25,9 +25,9 @@ permalink: /quotes/
 - "Little by little, one travels far."", J.R.R. Tolkien
 - "Creativity is the power to reject the past, to change the status quo, and to seek new potential.", Ai Wei Wei
 - "All grownups were once children, but only few of them remember it.", Antoine de Saint-Exupéry
-- "There are no limits, there are only plateaus, but you must not stay there, you must go beyond them.", [Bruce Lee](https://en.wikipedia.org/wiki/Bruce_Lee)
-- "Spend the afternoon. You can't take it with you.", [Annie Dillard](https://en.wikipedia.org/wiki/Annie_Dillard)
-- "Genius is nothing more nor less than childhood recaptured at will", [Charles Baudelaire](https://en.wikipedia.org/wiki/Charles_Baudelaire)
+- "There are no limits, there are only plateaus, but you must not stay there, you must go beyond them.", [Bruce Lee][6]
+- "Spend the afternoon. You can't take it with you.", [Annie Dillard][7]
+- "Genius is nothing more nor less than childhood recaptured at will", [Charles Baudelaire][8]
 - "Threats are the last resort of a man with no vocabulary", Tamora Pierce
 - "We are not makers of history. We are made by history." Martin Luther King, Jr
 - "Cheer up, the worst is yet to come", Mark Twain
@@ -37,7 +37,7 @@ permalink: /quotes/
 - "History doesn't repeat itself, but it sometimes rhymes." ??
 - "Your margin is my opportunity." Jeff Bezos
 - "Praise, like gold and diamonds, owes its value to its scarcity." Samuel Johnson
-- "How we spend our days is of course how we spend our lives." [Annie Dillard](https://en.wikipedia.org/wiki/Annie_Dillard)
+- "How we spend our days is of course how we spend our lives." [Annie Dillard][9]
 - "Man can only enjoy that with which he acquires through hard work and toil. The harder you work for something, the more you enjoy that. If something is easy, how much reward is there?", Unknown
 - "Some believe all that parents, tutors, and kindred believe. They take their principles by inheritance and defend them as they would their estates because they are born heirs to them.", Alan Watts
 - "All human knowledge is uncertain, inexact, and partial" Bertrand Russell
@@ -70,6 +70,8 @@ permalink: /quotes/
 - "Always be on the lookout for the presence of wonder", E.B. White
 - "Composing wild, undisciplined, pure, coming in from under, crazier the better", Jack Kerouac
 - "Do. Or do not. There is no try.", Yoda
+- "My value is courage, move along shame", Brené Brown
+- "Of all the paths you take in life, make sure a few of them are dirt", John Muir
 
 #### Business
 
@@ -81,3 +83,13 @@ permalink: /quotes/
 #### Technology
 
 - "Facebook makes me despise my friends and Twitter makes me hate the rest of the world", Nick Denton
+
+[1]:	http://genius.com/J-cole-january-28th-lyrics
+[2]:	https://en.wikipedia.org/wiki/Ram_Dass
+[3]:	https://en.wikipedia.org/wiki/Franz_Kafka
+[4]:	https://en.wikipedia.org/wiki/Franz_Kafka
+[5]:	https://en.wikipedia.org/wiki/Mae_West
+[6]:	https://en.wikipedia.org/wiki/Bruce_Lee
+[7]:	https://en.wikipedia.org/wiki/Annie_Dillard
+[8]:	https://en.wikipedia.org/wiki/Charles_Baudelaire
+[9]:	https://en.wikipedia.org/wiki/Annie_Dillard

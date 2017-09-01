@@ -191,3 +191,12 @@ permalink: /people/
 - Rosa Parks
 - Medgar Evers
 - Lorraine Hansberry
+- James McBride
+- Hannah Arendt
+- Karl Jaspers
+- Laird Hamilton
+- Fyodor Dostoyevsky
+- Michel Foucault
+- Thomas Kuhn
+- Alexis de Tocqueville
+- Hasan Minhaj

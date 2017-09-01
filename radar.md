@@ -43,8 +43,10 @@ permalink: /radar/
 
 ### Technology
 
+- iPhone 8
+- [Ricoh Theta V](https://theta360.com/en/about/theta/v.html)
+- [Google Daydream Standalone VR](https://vr.google.com/daydream/standalonevr/)
 - ["com cn"](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=com+cn&tbm=nws&*)
-- [Fenix 5](https://www.google.com.hk/search?q=Fenix+5&source=lnms&tbm=nws&sa=X&ved=0ahUKEwihp9PQkuTSAhVEoZQKHUxzD5cQ_AUICSgC&biw=1678&bih=926)
 - [Hyperledger](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=hyperledger&tbm=nws)
 - [Amazon Echo](https://www.google.com.hk/search?q=amazon+echo&source=lnms&tbm=nws&sa=X&ved=0ahUKEwjmmsvA-L_PAhXBl5QKHR-PAgkQ_AUICSgC&biw=1680&bih=926)
 - [IPFS](https://www.google.com.hk/search?q=ipfs&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiUw8iu87bPAhUDJ5QKHTxMC5EQ_AUICCgB&biw=1680&bih=926)
