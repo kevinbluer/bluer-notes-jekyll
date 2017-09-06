@@ -44,8 +44,10 @@ permalink: /radar/
 ### Technology
 
 - iPhone 8
-- [Ricoh Theta V](https://theta360.com/en/about/theta/v.html)
+- [Ricoh Theta V + Waterproof Kit](https://theta360.com/en/about/theta/v.html) 
 - [Google Daydream Standalone VR](https://vr.google.com/daydream/standalonevr/)
+- [DJI Mavic Pro Platinum](http://store.dji.com/product/mavic-pro-platinum)
+
 - ["com cn"](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=com+cn&tbm=nws&*)
 - [Hyperledger](https://www.google.com.hk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=hyperledger&tbm=nws)
 - [Amazon Echo](https://www.google.com.hk/search?q=amazon+echo&source=lnms&tbm=nws&sa=X&ved=0ahUKEwjmmsvA-L_PAhXBl5QKHR-PAgkQ_AUICSgC&biw=1680&bih=926)

@@ -8,6 +8,7 @@ A list of rolling yearly events, festivals, celebrations, etc...
 
 #### January
 
+- [Consumer Electronics Show](http://www.ces.tech/), Las Vegas
 - [World Economic Forum](https://www.weforum.org/), Davos-Klosters, Switzerland
 
 #### February
@@ -20,6 +21,7 @@ A list of rolling yearly events, festivals, celebrations, etc...
 - [Art Basel](https://www.artbasel.com/hong-kong), Hong Kong, China
 - [Winter Music Conference](http://www.wintermusicconference.com), Miami, United States
 - [Earth Hour](https://www.earthhour.org/), Around the World
+- [Blackhat Asia](http://www.blackhat.com/)
 
 #### April
 
@@ -40,8 +42,12 @@ A list of rolling yearly events, festivals, celebrations, etc...
 #### August
 
 - [Lost Village Festival](http://lostvillagefestival.com), United Kingdom
+- [Blackhat USA](http://www.blackhat.com/)
 
 #### September
+
+- [IFA](http://b2b.ifa-berlin.com/), Berlin
+- [IBC](https://www.ibc.org/), Amsterdam
 
 #### October
 
@@ -49,4 +55,5 @@ A list of rolling yearly events, festivals, celebrations, etc...
 
 #### December
 
+- [Blackhat Europe](http://www.blackhat.com/)
 - [Art Basel](https://www.artbasel.com/miami-beach), Miami Beach, United States
