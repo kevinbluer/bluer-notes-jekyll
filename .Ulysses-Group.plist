@@ -7,7 +7,7 @@
 	<key>resolutionData</key>
 	<dict>
 		<key>collapsed</key>
-		<real>513421771.75822902</real>
+		<real>529241603.181346</real>
 		<key>sheetClusters</key>
 		<dict/>
 		<key>userIconName</key>
@@ -23,6 +23,8 @@
 	<dict>
 		<key>collapsed</key>
 		<dict>
+			<key>3A0AA768-2C64-4980-B843-62456D137D72</key>
+			<integer>2</integer>
 			<key>BB5A116A-0655-4559-ABCF-552AF4ADFE7B</key>
 			<integer>1</integer>
 		</dict>

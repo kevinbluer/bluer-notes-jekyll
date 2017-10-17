@@ -8,6 +8,7 @@ A list of rolling yearly events, festivals, celebrations, etc...
 
 #### January
 
+- [Sundance Film Festival](https://www.sundance.org/festivals/sundance-film-festival), Park City, Utah
 - [Consumer Electronics Show](http://www.ces.tech/), Las Vegas
 - [World Economic Forum](https://www.weforum.org/), Davos-Klosters, Switzerland
 
@@ -25,6 +26,7 @@ A list of rolling yearly events, festivals, celebrations, etc...
 
 #### April
 
+- [Cochella](https://www.coachella.com), Indio, California
 - [Earth Day](http://www.earthday.org), Around the World
 - [World Book Day](http://www.worldbookday.com/), Around the World
 
@@ -43,15 +45,19 @@ A list of rolling yearly events, festivals, celebrations, etc...
 
 - [Lost Village Festival](http://lostvillagefestival.com), United Kingdom
 - [Blackhat USA](http://www.blackhat.com/)
+- [Burning Man](https://burningman.org), Black Rock City, Nevada
 
 #### September
 
 - [IFA](http://b2b.ifa-berlin.com/), Berlin
 - [IBC](https://www.ibc.org/), Amsterdam
+- [World Maker Faire](https://makerfaire.com/), New York City
 
 #### October
 
 #### November
+
+- [Ondalinda](http://www.ondalindaxcareyes.com/), Careyes, Mexico
 
 #### December
 

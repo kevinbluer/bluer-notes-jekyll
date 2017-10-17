@@ -200,3 +200,5 @@ permalink: /people/
 - Thomas Kuhn
 - Alexis de Tocqueville
 - Hasan Minhaj
+- Haemin Sunim
+- Colin Kaepernick
