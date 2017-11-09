@@ -108,6 +108,7 @@ permalink: /austin/
 
 ## Business
 
+- [Austin to Silicon Valley Types: Don't Mess With Texas](https://www.pcmag.com/news/357007/austin-to-silicon-valley-types-dont-mess-with-texas)
 - [Austin Technology’s Barbary Brunner Talks Texas, Discrimination, And What’s Next For Her City](https://news.crunchbase.com/news/austin-technologys-barbary-brunner-talks-texas-discrimination-whats-next-city)
 - [As Tech Hubs Tighten Their Grip, Where Is the Next Silicon Valley?](http://www.hiringlab.org/2017/07/25/next-silicon-valley/)
 - [Which workplaces are best for new dads?](https://www.bizjournals.com/austin/news/2017/06/16/which-workplaces-are-best-places-for-new-dads.html)

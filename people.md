@@ -167,6 +167,7 @@ permalink: /people/
 - Fanny Parkes
 - Oscar Wilde
 - Dean Karnazes
+- Mohamed Bouazizi
 - Max Michaelis
 - Cleopatra
 - James Watson
@@ -175,6 +176,7 @@ permalink: /people/
 - Karl Marx
 - Jack London
 - Voltaire
+- Ruby Nell Bridges
 - Jacob Burckhardt
 - Muhammad Yunus
 - Wangari Maathai
@@ -202,3 +204,4 @@ permalink: /people/
 - Hasan Minhaj
 - Haemin Sunim
 - Colin Kaepernick
+- Angela Y Davis

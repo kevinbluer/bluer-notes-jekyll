@@ -23,6 +23,7 @@ A list of rolling yearly events, festivals, celebrations, etc...
 - [Winter Music Conference](http://www.wintermusicconference.com), Miami, United States
 - [Earth Hour](https://www.earthhour.org/), Around the World
 - [Blackhat Asia](http://www.blackhat.com/)
+- [Sonar, Hong Kong](https://sonarhongkong.com/), Hong Kong
 
 #### April
 
@@ -38,6 +39,8 @@ A list of rolling yearly events, festivals, celebrations, etc...
 
 - [Art Basel](https://www.artbasel.com/basel), Basel, Switzerland
 - [Glastonbury](http://www.glastonburyfestivals.co.uk/), Pilton, United Kingdom
+- [Sonar](https://sonar.es), Barcelona, Spain
+- [Americas Cup](https://m.americascup.com/)
 
 #### July
 
