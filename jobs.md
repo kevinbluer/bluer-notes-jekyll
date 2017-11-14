@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Jobs
-permalink: /jobs/
+permalink: "/jobs/"
+layout: page
 ---
 
 Listed below are a range of technology centric job sites and resources. If you know of any others that are not listed feel free to drop me a quick note at [hello@bluer.com](hello@bluer.com).

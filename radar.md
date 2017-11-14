@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Radar
-permalink: /radar/
+permalink: "/radar/"
+layout: page
 ---
 
 ### Trends

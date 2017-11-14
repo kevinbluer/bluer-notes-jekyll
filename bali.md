@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Bali
-permalink: /bali/
+permalink: "/bali/"
+layout: page
 ---
 
 A random selection...

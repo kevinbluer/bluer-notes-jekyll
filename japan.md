@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Things to do in Japan
-permalink: /japan/
+permalink: "/japan/"
+layout: page
 ---
 
 - Capsule Hotels

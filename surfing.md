@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Surfing
-permalink: /surfing/
+permalink: "/surfing/"
+layout: page
 ---
 
 #### Locations

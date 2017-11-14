@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Road Trips
-permalink: /roadtrips/
+permalink: "/roadtrips/"
+layout: page
 ---
 
 Roadtrips, hikes, trails, etc...

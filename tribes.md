@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Tribes
-permalink: /tribes/
+permalink: "/tribes/"
+layout: page
 ---
 
 - Surma (South Sudan and southwestern Ethiopia)

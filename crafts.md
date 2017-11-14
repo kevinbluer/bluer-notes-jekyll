@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Crafts
-permalink: /crafts/
+permalink: "/crafts/"
+layout: page
 ---
 
 - [Charles Dedman](https://www.charlesdedman.co.uk)

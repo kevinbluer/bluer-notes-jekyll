@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Los Angeles
-permalink: /la/
+permalink: "/la/"
+layout: page
 ---
 
 - [YC](https://news.ycombinator.com/item?id=12867417)
