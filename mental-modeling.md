@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Mental Modeling
-permalink: /mental-modeling
+permalink: "/mental-modeling"
+layout: page
 ---
 
 ### Mental Models

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Austin
-permalink: /austin/
+permalink: "/austin/"
+layout: page
 ---
 
 "Austin, on the eastern edge of Texas Hill Country, is not only the state capital, but lays claim to being the "live music capital of the world." It’s also a center for film and home to the University of Texas and Formula 1's Circuit of the Americas raceway. Its abundant parks and lakes are popular for hiking, biking, swimming, boating and other outdoor pursuits."

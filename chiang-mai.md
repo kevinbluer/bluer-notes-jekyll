@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Chiang Mai
-permalink: /chiang-mai/
+permalink: "/chiang-mai/"
+layout: page
 ---
 
 # Chiang Mai

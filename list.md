@@ -1,7 +1,7 @@
 ---
-layout: page
 title: List
-permalink: /list/
+permalink: "/list/"
+layout: page
 menu: main
 ---
 

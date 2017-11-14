@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Hidden Hong Kong
-permalink: /hongkong/
+permalink: "/hongkong/"
+layout: page
 ---
 
 - [Kam Shan Country Park](http://www.afcd.gov.hk/english/country/cou_vis/cou_vis_cou/cou_vis_cou_ks/cou_vis_cou_ks.html)

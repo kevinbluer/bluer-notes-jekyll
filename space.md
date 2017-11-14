@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Space
-permalink: /space/
+permalink: "/space/"
+layout: page
 ---
 
 #### ISS (International Space Station)

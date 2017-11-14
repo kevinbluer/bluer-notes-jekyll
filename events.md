@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Events
-permalink: /events/
+permalink: "/events/"
+layout: page
 ---
 
 A list of rolling yearly events, festivals, celebrations, etc...

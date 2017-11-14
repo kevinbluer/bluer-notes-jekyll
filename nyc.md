@@ -1,7 +1,7 @@
 ---
-layout: page
 title: NYC
-permalink: /nyc/
+permalink: "/nyc/"
+layout: page
 ---
 
 Suggestions for a NYC visit (sent to a friend in 2015)... 

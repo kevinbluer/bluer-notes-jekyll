@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Brain Stuff
-permalink: /brain/
+permalink: "/brain/"
+layout: page
 ---
 
 - Cerebellum

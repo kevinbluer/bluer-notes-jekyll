@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Quotes
-permalink: /quotes/
+permalink: "/quotes/"
+layout: page
 ---
 
 - "If you ain't aim too high. Then you aim too low.", [J Cole][1]

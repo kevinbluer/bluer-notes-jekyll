@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Spices
-permalink: /spices/
+permalink: "/spices/"
+layout: page
 ---
 
 #### Brands (Lee Kum Lee, etc)

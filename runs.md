@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Running
-permalink: /running/
+permalink: "/running/"
+layout: page
 ---
 
 #### History
