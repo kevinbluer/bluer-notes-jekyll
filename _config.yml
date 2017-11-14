@@ -12,7 +12,7 @@ email: hello@bluer.com
 description: 'A notes archive
 
 '
-baseurl: ''
+baseurl: 
 url: http://notes.bluer.com
 twitter_username: kevinbluer
 github_username: kevinbluer
