@@ -81,6 +81,7 @@ layout: page
 - "Life is in a constant state of flux and careers are long. As much as we obsess about the short-term, the immediate and the adrenaline rush of the moment – your career, your success and your legacy are created and built in the long-term.", Pascal Finette
 - "Make something people want and sell that, or be someone people need and sell you.", Ryan Lilly
 - "You can’t use up creativity. The more you use, the more you have.”, Maya Angelou
+- "A leader is anyone who holds her or himself accountable for finding potential in people and processes. The term leader has nothing to do with position, status, or number of direct reports.", Brene Brown
 
 #### Technology
 

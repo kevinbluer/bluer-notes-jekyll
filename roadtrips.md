@@ -12,3 +12,4 @@ Roadtrips, hikes, trails, etc...
 - [Road to Hana](http://roadtohana.com)
 - [Olympic National Park](https://www.nps.gov/state/wa/index.htm)
 - [Appalachian Trail](https://en.wikipedia.org/wiki/Appalachian_Trail)
+- [Marfa, Lajitas, Big Bend, & Terlingua](https://www.theperennialstyle.com/2017/04/28/texas-weekend-road-trip-itinerary-marfa-lajitas-big-bend-terlingua/)
