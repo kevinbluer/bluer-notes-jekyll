@@ -205,3 +205,5 @@ layout: page
 - Haemin Sunim
 - Colin Kaepernick
 - Angela Y Davis
+- Alan Turing
+- Brian Cox

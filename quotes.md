@@ -72,6 +72,8 @@ layout: page
 - "Do. Or do not. There is no try.", Yoda
 - "My value is courage, move along shame", Brené Brown
 - "Of all the paths you take in life, make sure a few of them are dirt", John Muir
+- "Steel isn't strong, boy, flesh is stronger!", Thulsa Doom
+- "You know, it’s beautiful, and it’s hard, and you want to stop...", Lynne Cox
 
 #### Business
 
