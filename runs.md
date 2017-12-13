@@ -13,9 +13,8 @@ layout: page
 
 #### Upcoming
 
-- Yokohama Marathon, October 29th 2017
-- [tentative] Macau Marathon, December 3rd 2017
 - Austin Marathon, February 18th 2018
+- Hong Kong Streetathon Half Marathon, February 25th 2018
 
 #### One Day (although probably not)
 
