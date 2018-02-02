@@ -207,3 +207,4 @@ layout: page
 - Angela Y Davis
 - Alan Turing
 - Brian Cox
+- Calestous Juma

@@ -53,6 +53,7 @@ Listed below are a range of technology centric job sites and resources. If you k
 - [Working Nomads](http://www.workingnomads.co/jobs)
 - [HackHands](https://hackhands.com)
 - [RemotelyAwesomeJobs](https://www.remotelyawesomejobs.com/)
+- [Remotive](http://jobs.remotive.io)
 
 ### Country & Region Specific
 

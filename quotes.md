@@ -74,6 +74,7 @@ layout: page
 - "Of all the paths you take in life, make sure a few of them are dirt", John Muir
 - "Steel isn't strong, boy, flesh is stronger!", Thulsa Doom
 - "You know, it’s beautiful, and it’s hard, and you want to stop...", Lynne Cox
+- "Life is a series of natural and spontaneous changes. Don't resist them - that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.", Lao Tzu
 
 #### Business
 

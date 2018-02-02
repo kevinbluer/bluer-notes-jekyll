@@ -14,7 +14,8 @@ A list of rolling yearly events, festivals, celebrations, etc...
 
 #### February
 
-- [Hong Kong Race Week](http://www.hongkongraceweek.com) 
+- [Geekend](http://www.geek-end.com/), Savannah, Georgia
+- [Hong Kong Race Week](http://www.hongkongraceweek.com), Hong Kong
 
 #### March
 
